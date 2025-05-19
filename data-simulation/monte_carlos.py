@@ -1,14 +1,12 @@
 import pandas as pd
 import numpy as np
 from sklearn.preprocessing import LabelEncoder
-from sklearn.model_selection import train_test_split
-from shapely.geometry import Point
-import geopandas as gpd
+from geopy.geocoders import Nominatim
 
 class MonteCarlo:
     def __init__(self):
         self.data = pd.read_csv("../dataframe/BD_Atlas_1991_2024_v2.csv")
-        self.keys = ['Protocolo_S2iD', 'Cod_Cobrade', 'Cod_IBGE_Mun']
+        self.keys = ['Protocolo_S2iD', 'Cod_Cobrade', 'Cod_IBGE_Mun', 'Nome_Munucipio', 'SIGLA_UF', 'regiao']
 
     def main(self):
         self.pre_processing()
@@ -17,28 +15,41 @@ class MonteCarlo:
     def pre_processing(self):
         df = self.data
 
-        # Label Encoding para colunas categóricas
         for col in ['regiao', 'grupo_de_desastre']:
             if col in df.columns:
                 le = LabelEncoder()
                 df[col] = le.fit_transform(df[col].astype(str))
 
-        # Criar fullAddress e lat/lon (como você já tinha)
         if 'Nome_Municipio' in df.columns and 'Sigla_UF' in df.columns:
             df['fullAddress'] = df['Nome_Municipio'].astype(str) + ', ' + df['Sigla_UF'].astype(str) + ', Brasil'
             df.drop(columns=['Nome_Municipio', 'Sigla_UF'], inplace=True)
         else:
             raise ValueError("Campos 'Nome_Municipio' e/ou 'Sigla_UF' ausentes do dataframe")
 
-        # Para simplificar, ignorarei geocodificação aqui
+        self.data['lat'], self.data['lon'] = np.nan, np.nan
 
-        # Gerar geometria (exemplo simples)
-        df['lat'] = df['lat'].fillna(0)
-        df['lon'] = df['lon'].fillna(0)
-        df['geometry'] = df.apply(lambda row: Point(row['lon'], row['lat']) if row['lat'] and row['lon'] else None, axis=1)
-        df = gpd.GeoDataFrame(df, crs="EPSG:4326", geometry='geometry')
+        geolocator = Nominatim(user_agent="myGeocoder", scheme='http', domain='localhost:8080')
 
-        # Remover colunas irrelevantes
+        def get_lat_lon(address: str):
+            try:
+                location = geolocator.geocode(address, timeout= 1)
+                if location:
+                    print(location.latitude, location.longitude)
+                    return location.latitude, location.longitude
+                else:
+                    return None, None
+            except Exception as e:
+                print(f"Erro ao obter coordenadas para o endereço: {address}. Erro: {e}")
+                return None, None
+
+        for idx, row in self.data[self.data['lat'].isna() | self.data['lon'].isna()].iterrows():
+            address = row['fullAddress']
+            lat, lon = get_lat_lon(address)
+            if lat is not None and lon is not None:
+                self.data.at[idx, 'lat'] = lat
+                self.data.at[idx, 'lon'] = lon
+
+
         cols_remove = ['DA_Polui/cont da água', 'DA_Polui/cont do ar', 'DA_Polui/cont do solo',
                        'DA_Dimi/exauri hídrico', "DA_Incêndi parques/APA's/APP's", 'descricao_tipologia']
         df.drop(columns=[c for c in cols_remove if c in df.columns], inplace=True)
@@ -54,12 +65,11 @@ class MonteCarlo:
 
         df_sim = pd.DataFrame()
 
-        # Copiar chaves primárias - reutilizando as mesmas chaves do treino (ou poderia gerar novas se necessário)
         for key in self.keys:
             if key in df_train.columns:
                 df_sim[key] = np.random.choice(df_train[key].values, n_samples, replace=True)
 
-        # Para cada coluna que não for chave, simula dados
+
         for col in df_train.columns:
             if col in self.keys or col == 'geometry':
                 continue  # ignora as keys e geometria
@@ -95,14 +105,9 @@ class MonteCarlo:
 
         print(f"Treino: {df_train.shape}, Validação: {df_val.shape}")
 
-        # Simular dados com Monte Carlo com o mesmo número de amostras da validação
         n_samples = df_val.shape[0]
         df_simulated = self.simulate_data(df_train, n_samples)
 
-        # Aqui você pode anexar chaves primárias originais para avaliar se simulação está coerente,
-        # ou criar lógica para gerar novas chaves se for um cenário de geração de dados totalmente novos.
-
-        # Exemplo simples de validação: comparar distribuições numéricas básicas
         for col in df_simulated.columns:
             if col in self.keys or col == 'geometry':
                 continue
@@ -110,7 +115,6 @@ class MonteCarlo:
             print(f" - Média real: {df_val[col].mean():.3f} vs Simulada: {df_simulated[col].mean():.3f}")
             print(f" - Std real: {df_val[col].std():.3f} vs Simulada: {df_simulated[col].std():.3f}")
 
-        # Opcional: salvar ou retornar os dados simulados
         df_simulated.to_csv("simulated_data.csv", index=False)
         print("Simulação concluída e salva em 'simulated_data.csv'.")
 

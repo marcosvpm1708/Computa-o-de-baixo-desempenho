@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  nominatim:
+    image: mediagis/nominatim:5.0
+    container_name: nominatim
+    restart: unless-stopped
+    ports:
+      - "8080:8080"
+    environment:
+      - PBF_PATH=/nominatim-data/brazil-latest.osm.pbf
+      - IMPORT_STYLE=full
+      - THREADS=4
+      - NOMINATIM_PASSWORD=nomipass
+    volumes:
+      - ./dataflow/geofabrik:/nominatim-data
+      - nominatim-postgres:/var/lib/postgresql/14/main
+    shm_size: 1g
+
+volumes:
+  nominatim-postgres:

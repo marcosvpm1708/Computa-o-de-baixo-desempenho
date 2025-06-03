@@ -1,0 +1,2 @@
+data-simulation/sarimax_sim_2025_2034_diario_todas_regioes.csv filter=lfs diff=lfs merge=lfs -text
+data-simulation/sarimax_val_2021_2024_diario_todas_regioes.csv filter=lfs diff=lfs merge=lfs -text

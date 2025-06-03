@@ -4,13 +4,18 @@ from sklearn.preprocessing import LabelEncoder
 from geopy.geocoders import Nominatim
 
 class MonteCarlo:
-    def __init__(self):
-        self.data = pd.read_csv("../dataframe/BD_Atlas_1991_2024_v2.csv")
-        self.keys = ['Protocolo_S2iD', 'Cod_Cobrade', 'Cod_IBGE_Mun', 'Nome_Munucipio', 'SIGLA_UF', 'regiao']
 
-    def main(self):
-        self.pre_processing()
-        self.train_and_validate()
+    def __init__(self, data = pd.read_csv("../dataframe/BD_Atlas_1991_2024_v2.csv")):
+        self.data = data
+
+    def main(self, pre_processing = True):
+        if pre_processing:
+            self.pre_processing()
+
+        self.keys = data['Protocolo_S2iD', 'Data_Registro', 'Cod_Cobrade', 'Cod_IBGE_Mun', 'Nome_Munucipio', 'SIGLA_UF', 'regiao']
+        self.train_monte_carlo()
+
+
 
     def pre_processing(self):
         df = self.data
@@ -46,8 +51,8 @@ class MonteCarlo:
             address = row['fullAddress']
             lat, lon = get_lat_lon(address)
             if lat is not None and lon is not None:
-                self.data.at[idx, 'lat'] = lat
-                self.data.at[idx, 'lon'] = lon
+               self.data.at[idx, 'lat'] = lat
+               self.data.at[idx, 'lon'] = lon
 
 
         cols_remove = ['DA_Polui/cont da água', 'DA_Polui/cont do ar', 'DA_Polui/cont do solo',
@@ -57,67 +62,11 @@ class MonteCarlo:
         df.to_csv('../dataframe/BD_Atlas_1991_2024_Monte_Carlo.csv', index=False)
         self.data = df
 
-    def simulate_data(self, df_train, n_samples):
-        """
-        Gera dados simulados via Monte Carlo para cada coluna com base no df_train.
-        Mantém as chaves primárias fixas (self.keys).
-        """
+    def train_monte_carlo(self):
+        print(self.data.info())
 
-        df_sim = pd.DataFrame()
-
-        for key in self.keys:
-            if key in df_train.columns:
-                df_sim[key] = np.random.choice(df_train[key].values, n_samples, replace=True)
-
-
-        for col in df_train.columns:
-            if col in self.keys or col == 'geometry':
-                continue  # ignora as keys e geometria
-
-            if pd.api.types.is_numeric_dtype(df_train[col]):
-                # Ajusta uma distribuição normal (média e std) ou uniforme se std=0
-                mu = df_train[col].mean()
-                sigma = df_train[col].std()
-                if np.isnan(sigma) or sigma == 0:
-                    sigma = 0.01  # evitar std=0
-                simulated = np.random.normal(mu, sigma, n_samples)
-                # Se coluna original não aceita negativos, ajustar:
-                if (df_train[col] >= 0).all():
-                    simulated = np.clip(simulated, 0, None)
-                df_sim[col] = simulated
-
-            else:
-                # Categórico: simula pela distribuição empírica
-                vals = df_train[col].dropna().unique()
-                probs = df_train[col].value_counts(normalize=True)
-                simulated = np.random.choice(vals, n_samples, p=probs.loc[vals].values)
-                df_sim[col] = simulated
-
-        return df_sim
-
-    def train_and_validate(self):
-        # Considera que existe uma coluna 'Ano' para separar treino e validação
-        if 'Ano' not in self.data.columns:
-            raise ValueError("Coluna 'Ano' é necessária para separar treino e validação")
-
-        df_train = self.data[self.data['Ano'] <= 2020].copy()
-        df_val = self.data[self.data['Ano'] > 2020].copy()
-
-        print(f"Treino: {df_train.shape}, Validação: {df_val.shape}")
-
-        n_samples = df_val.shape[0]
-        df_simulated = self.simulate_data(df_train, n_samples)
-
-        for col in df_simulated.columns:
-            if col in self.keys or col == 'geometry':
-                continue
-            print(f"Coluna: {col}")
-            print(f" - Média real: {df_val[col].mean():.3f} vs Simulada: {df_simulated[col].mean():.3f}")
-            print(f" - Std real: {df_val[col].std():.3f} vs Simulada: {df_simulated[col].std():.3f}")
-
-        df_simulated.to_csv("simulated_data.csv", index=False)
-        print("Simulação concluída e salva em 'simulated_data.csv'.")
 
 if __name__ == "__main__":
+    data = pd.read_csv("../dataframe/BD_Atlas_1991_2024_Monte_Carlo.csv", low_memory=False)
     monte_carlo = MonteCarlo()
-    monte_carlo.main()
+    monte_carlo.main(pre_processing = False)

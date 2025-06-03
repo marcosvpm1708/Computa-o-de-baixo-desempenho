@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="\dataframe\BD_Atlas_1991_2024_Monte_Carlo.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\dataframe\BD_Atlas_1991_2024_v2.csv">
           <value>
             <Attribute>

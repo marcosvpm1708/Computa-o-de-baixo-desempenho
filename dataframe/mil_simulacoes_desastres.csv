@@ -1,0 +1,1001 @@
+﻿nome_municipio;sigla_uf;dh_mortos;dh_feridos;dh_desabrigados;da_polui_cont_do_solo;da_polui_cont_do_ar;descricao_tipologia;grupo_de_desastre
+Catalão;SP;0;1;11;0;0;Incêndios florestais;Incêndios Florestais
+Manaus;AP;0;2;10;0;0;Inundações graduais;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Curitiba;PR;0;0;5;0;0;Deslizamentos de terra;Hidrológico
+Anápolis;AC;0;3;8;0;0;Enxurradas;Hidrológico
+Curitiba;AC;0;0;8;0;0;Secas e estiagens;Geológico
+Rio Verde;AC;0;2;7;1;0;Secas e estiagens;Climatológico
+Curitiba;RS;1;3;8;0;0;Vendavais e Ciclones;Meteorológico
+Belo Horizonte;TO;0;1;14;0;0;Tornados;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Valparaíso de Goiás;MT;0;2;7;0;0;Deslizamentos de terra;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Porto Alegre;ES;0;2;6;0;0;Secas e estiagens;Hidrológico
+Recife;AM;0;1;9;0;0;Deslizamentos de terra;Desastres Tecnológicos (simulando contaminação como consequência)
+Luziânia;AP;0;3;7;1;0;Enxurradas;Geológico
+Goiânia;RR;0;1;12;0;0;Alagamentos;Desastres Tecnológicos (simulando contaminação como consequência)
+Rio Verde;MT;0;0;13;0;0;Geada/Frentes frias;Incêndios Florestais
+Rio Verde;MG;0;1;12;0;0;Tornados;Climatológico
+Goiânia;DF;0;2;12;0;0;Vendavais e Ciclones;Meteorológico
+Manaus;PB;0;1;7;0;1;Granizo;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Catalão;ES;0;3;10;0;0;Alagamentos;Meteorológico
+Brasília;RS;0;1;5;0;0;Subsidência/Colapso de solo;Meteorológico
+Rio Verde;SE;0;1;7;0;0;Vendavais e Ciclones;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Belo Horizonte;ES;0;1;8;0;0;Chuvas Intensas;Hidrológico
+Curitiba;PE;0;3;12;1;0;Erosão Costeira;Hidrológico
+Porto Alegre;PE;0;3;4;1;0;Tornados;Desastres Tecnológicos (simulando contaminação como consequência)
+Salvador;AM;0;2;6;0;0;Alagamentos;Incêndios Florestais
+Anápolis;MT;0;2;12;0;0;Incêndios florestais;Geológico
+Manaus;PR;0;3;11;0;0;Inundações graduais;Geológico
+Luziânia;AM;1;1;16;0;0;Alagamentos;Geológico
+Recife;PA;0;3;11;0;0;Geada/Frentes frias;Meteorológico
+Valparaíso de Goiás;DF;0;1;7;1;0;Subsidência/Colapso de solo;Desastres Tecnológicos (simulando contaminação como consequência)
+Valparaíso de Goiás;BA;0;3;11;0;1;Subsidência/Colapso de solo;Meteorológico
+Trindade;RJ;0;0;12;0;0;Deslizamentos de terra;Geológico
+Salvador;TO;0;2;11;0;0;Alagamentos;Meteorológico
+Valparaíso de Goiás;PA;0;0;8;0;1;Deslizamentos de terra;Desastres Tecnológicos (simulando contaminação como consequência)
+Anápolis;RJ;0;1;11;0;0;Alagamentos;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Catalão;PA;1;0;10;0;0;Subsidência/Colapso de solo;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Valparaíso de Goiás;RO;0;3;5;1;0;Incêndios florestais;Geológico
+Salvador;ES;0;0;9;1;0;Vendavais e Ciclones;Meteorológico
+Fortaleza;SP;1;1;11;0;0;Secas e estiagens;Geológico
+Curitiba;PI;2;5;8;1;0;Erosão Costeira;Meteorológico
+Porto Alegre;RS;0;0;12;0;0;Tornados;Incêndios Florestais
+Manaus;AC;0;2;18;0;1;Deslizamentos de terra;Incêndios Florestais
+Trindade;AP;0;0;13;0;0;Alagamentos;Climatológico
+Manaus;BA;1;4;10;0;0;Incêndios florestais;Climatológico
+Salvador;PI;0;2;10;0;0;Vendavais e Ciclones;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Jataí;TO;0;1;10;0;0;Chuvas Intensas;Climatológico
+Aparecida de Goiânia;ES;0;1;8;0;0;Vendavais e Ciclones;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Belo Horizonte;MS;0;2;11;0;0;Subsidência/Colapso de solo;Meteorológico
+Valparaíso de Goiás;PB;1;1;9;0;0;Enxurradas;Geológico
+São Paulo;MG;0;2;10;0;0;Alagamentos;Meteorológico
+Fortaleza;PA;3;1;15;0;1;Geada/Frentes frias;Desastres Tecnológicos (simulando contaminação como consequência)
+Goiânia;PB;1;1;5;0;0;Deslizamentos de terra;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Brasília;PI;1;1;12;0;0;Erosão Costeira;Hidrológico
+Goiânia;PR;0;0;9;1;0;Incêndios florestais;Geológico
+Valparaíso de Goiás;SE;1;2;5;0;0;Inundações graduais;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Belo Horizonte;PR;0;1;13;0;0;Inundações graduais;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Rio Verde;PE;1;0;9;1;0;Geada/Frentes frias;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Belo Horizonte;PR;1;2;8;0;0;Granizo;Hidrológico
+Manaus;PI;0;2;15;0;0;Subsidência/Colapso de solo;Hidrológico
+Aparecida de Goiânia;RS;2;4;9;1;0;Deslizamentos de terra;Geológico
+Manaus;PB;0;1;5;0;0;Tornados;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Rio Verde;MS;1;2;9;0;0;Secas e estiagens;Geológico
+Jataí;SP;0;1;8;0;0;Erosão Costeira;Climatológico
+Recife;RS;0;4;9;0;0;Granizo;Hidrológico
+Catalão;RJ;0;2;11;0;1;Erosão Costeira;Desastres Tecnológicos (simulando contaminação como consequência)
+Curitiba;TO;0;3;9;0;1;Alagamentos;Geológico
+Fortaleza;RO;0;2;9;0;1;Enxurradas;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Salvador;AP;0;0;10;1;0;Secas e estiagens;Geológico
+Fortaleza;PI;0;1;3;0;0;Secas e estiagens;Meteorológico
+Manaus;TO;1;2;16;0;0;Deslizamentos de terra;Hidrológico
+Brasília;PA;0;1;8;0;0;Erosão Costeira;Climatológico
+Itumbiara;PB;0;4;9;0;0;Granizo;Meteorológico
+Belo Horizonte;DF;0;0;17;0;0;Erosão Costeira;Meteorológico
+Manaus;AC;0;1;11;1;0;Inundações graduais;Geológico
+Valparaíso de Goiás;PR;0;2;11;1;0;Erosão Costeira;Meteorológico
+Trindade;PA;0;2;12;0;0;Enxurradas;Incêndios Florestais
+Salvador;SC;0;1;10;0;0;Vendavais e Ciclones;Hidrológico
+Rio de Janeiro;MT;0;2;13;0;0;Subsidência/Colapso de solo;Desastres Tecnológicos (simulando contaminação como consequência)
+Belo Horizonte;SE;0;2;10;1;0;Deslizamentos de terra;Climatológico
+Catalão;RJ;0;3;8;1;0;Chuvas Intensas;Incêndios Florestais
+Recife;PB;0;1;12;0;0;Chuvas Intensas;Incêndios Florestais
+Aparecida de Goiânia;RJ;0;2;11;0;0;Secas e estiagens;Desastres Tecnológicos (simulando contaminação como consequência)
+Luziânia;PA;0;1;15;0;0;Geada/Frentes frias;Hidrológico
+Catalão;SE;0;1;12;1;0;Tornados;Hidrológico
+Rio Verde;SC;0;1;10;0;0;Inundações graduais;Incêndios Florestais
+Goiânia;AC;0;2;8;1;0;Tornados;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Rio Verde;SE;0;4;13;0;1;Secas e estiagens;Climatológico
+Manaus;PA;0;3;8;1;0;Tornados;Hidrológico
+Salvador;CE;0;0;11;0;0;Inundações graduais;Hidrológico
+Rio de Janeiro;MT;0;2;10;0;0;Tornados;Geológico
+Catalão;PB;0;2;6;0;0;Vendavais e Ciclones;Climatológico
+Jataí;PI;1;1;9;0;0;Tornados;Geológico
+Luziânia;AC;1;1;11;0;0;Alagamentos;Incêndios Florestais
+Valparaíso de Goiás;PA;0;2;10;0;0;Tornados;Climatológico
+Porto Alegre;MS;0;0;10;0;0;Secas e estiagens;Incêndios Florestais
+Manaus;SP;0;4;10;1;0;Deslizamentos de terra;Incêndios Florestais
+Brasília;TO;0;1;7;0;0;Subsidência/Colapso de solo;Hidrológico
+Jataí;PA;0;0;9;0;0;Enxurradas;Geológico
+Trindade;TO;0;1;10;1;0;Granizo;Hidrológico
+Itumbiara;CE;0;1;12;0;0;Incêndios florestais;Incêndios Florestais
+Catalão;MG;0;2;9;1;0;Geada/Frentes frias;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Goiânia;AP;0;4;6;0;1;Subsidência/Colapso de solo;Climatológico
+Trindade;MT;0;3;10;0;0;Incêndios florestais;Meteorológico
+São Paulo;MG;0;3;9;1;0;Alagamentos;Desastres Tecnológicos (simulando contaminação como consequência)
+Porto Alegre;CE;1;1;11;0;0;Subsidência/Colapso de solo;Incêndios Florestais
+Porto Alegre;AM;1;1;9;0;0;Alagamentos;Geológico
+Aparecida de Goiânia;RS;0;2;10;0;0;Inundações graduais;Meteorológico
+Manaus;MT;0;2;13;0;0;Granizo;Climatológico
+Valparaíso de Goiás;PI;0;4;5;0;0;Vendavais e Ciclones;Climatológico
+Trindade;RN;1;2;8;1;0;Alagamentos;Incêndios Florestais
+Jataí;PI;0;2;15;0;0;Secas e estiagens;Climatológico
+Belo Horizonte;RR;1;5;5;0;0;Inundações graduais;Incêndios Florestais
+Catalão;MA;0;0;8;0;0;Tornados;Incêndios Florestais
+Jataí;PE;1;1;9;0;1;Deslizamentos de terra;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Goiânia;AL;0;3;10;0;0;Granizo;Meteorológico
+Anápolis;ES;1;3;13;1;0;Geada/Frentes frias;Climatológico
+Trindade;AL;0;1;20;0;0;Deslizamentos de terra;Incêndios Florestais
+Rio Verde;CE;1;2;8;0;0;Granizo;Desastres Tecnológicos (simulando contaminação como consequência)
+Recife;RN;0;3;10;0;0;Tornados;Meteorológico
+Goiânia;GO;0;2;10;0;0;Inundações graduais;Incêndios Florestais
+Jataí;RR;0;1;16;0;0;Chuvas Intensas;Hidrológico
+Porto Alegre;AM;1;2;8;0;0;Incêndios florestais;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Rio de Janeiro;MS;0;0;6;0;0;Inundações graduais;Hidrológico
+Catalão;BA;0;1;11;1;0;Geada/Frentes frias;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Recife;ES;0;1;9;0;0;Geada/Frentes frias;Climatológico
+Rio de Janeiro;ES;0;3;13;0;1;Inundações graduais;Meteorológico
+Rio Verde;MS;0;2;15;1;0;Alagamentos;Desastres Tecnológicos (simulando contaminação como consequência)
+Luziânia;AL;0;3;13;1;0;Granizo;Hidrológico
+São Paulo;MA;0;0;10;0;0;Secas e estiagens;Climatológico
+São Paulo;DF;0;1;7;0;0;Tornados;Hidrológico
+Jataí;MG;0;3;7;0;0;Enxurradas;Desastres Tecnológicos (simulando contaminação como consequência)
+Catalão;SP;0;1;11;0;0;Chuvas Intensas;Desastres Tecnológicos (simulando contaminação como consequência)
+Rio de Janeiro;TO;0;0;7;0;0;Inundações graduais;Meteorológico
+Anápolis;ES;0;1;8;0;1;Subsidência/Colapso de solo;Hidrológico
+Recife;MG;0;3;10;0;0;Geada/Frentes frias;Desastres Tecnológicos (simulando contaminação como consequência)
+Trindade;CE;1;5;16;0;0;Chuvas Intensas;Climatológico
+Curitiba;AC;0;2;10;0;1;Incêndios florestais;Desastres Tecnológicos (simulando contaminação como consequência)
+Luziânia;RO;0;0;12;1;0;Granizo;Climatológico
+Belo Horizonte;RJ;0;2;14;0;0;Vendavais e Ciclones;Meteorológico
+Itumbiara;PB;0;3;14;0;0;Secas e estiagens;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Rio Verde;RJ;1;1;8;0;0;Erosão Costeira;Incêndios Florestais
+Luziânia;RS;0;1;7;0;0;Geada/Frentes frias;Climatológico
+Luziânia;RR;0;2;9;0;0;Granizo;Desastres Tecnológicos (simulando contaminação como consequência)
+Valparaíso de Goiás;BA;0;4;8;0;0;Alagamentos;Desastres Tecnológicos (simulando contaminação como consequência)
+Curitiba;PE;0;3;7;0;0;Secas e estiagens;Desastres Tecnológicos (simulando contaminação como consequência)
+Rio Verde;RJ;0;2;9;0;0;Vendavais e Ciclones;Desastres Tecnológicos (simulando contaminação como consequência)
+Manaus;AL;2;2;12;0;0;Granizo;Incêndios Florestais
+Rio Verde;PA;0;1;9;0;0;Inundações graduais;Desastres Tecnológicos (simulando contaminação como consequência)
+Trindade;DF;0;2;6;0;0;Alagamentos;Geológico
+Salvador;MS;1;0;11;1;0;Inundações graduais;Desastres Tecnológicos (simulando contaminação como consequência)
+Trindade;PA;0;2;5;0;0;Secas e estiagens;Hidrológico
+Valparaíso de Goiás;GO;0;0;15;0;0;Alagamentos;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Goiânia;AM;0;3;11;0;0;Tornados;Geológico
+Salvador;TO;0;1;4;0;0;Secas e estiagens;Incêndios Florestais
+Trindade;CE;0;3;10;0;0;Alagamentos;Meteorológico
+Jataí;AL;1;1;13;0;0;Subsidência/Colapso de solo;Meteorológico
+Curitiba;PI;0;3;11;0;0;Vendavais e Ciclones;Hidrológico
+Rio Verde;PB;0;1;6;0;0;Tornados;Incêndios Florestais
+Goiânia;MT;0;3;11;0;0;Tornados;Geológico
+Aparecida de Goiânia;ES;1;0;14;0;0;Deslizamentos de terra;Geológico
+Catalão;SP;1;0;15;1;0;Chuvas Intensas;Desastres Tecnológicos (simulando contaminação como consequência)
+Curitiba;RN;0;1;4;0;0;Subsidência/Colapso de solo;Desastres Tecnológicos (simulando contaminação como consequência)
+Fortaleza;PR;1;2;12;0;0;Enxurradas;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Anápolis;AL;0;1;11;0;0;Alagamentos;Incêndios Florestais
+Aparecida de Goiânia;TO;0;4;13;0;0;Deslizamentos de terra;Hidrológico
+Recife;SE;0;0;8;0;0;Granizo;Meteorológico
+Luziânia;RR;0;2;6;0;1;Chuvas Intensas;Meteorológico
+Catalão;AC;1;3;6;0;0;Subsidência/Colapso de solo;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Porto Alegre;AC;1;1;7;1;0;Alagamentos;Hidrológico
+Aparecida de Goiânia;BA;0;2;13;0;0;Granizo;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Anápolis;RO;0;2;14;0;0;Deslizamentos de terra;Climatológico
+Rio Verde;BA;0;1;14;0;0;Vendavais e Ciclones;Meteorológico
+Valparaíso de Goiás;SC;0;3;10;0;0;Secas e estiagens;Geológico
+Trindade;MA;0;2;14;0;0;Enxurradas;Hidrológico
+Anápolis;MS;0;0;6;0;0;Alagamentos;Hidrológico
+Goiânia;RJ;1;0;13;1;0;Granizo;Incêndios Florestais
+Curitiba;PB;0;1;9;0;0;Granizo;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Luziânia;RN;2;2;12;0;0;Alagamentos;Climatológico
+Jataí;MS;0;0;11;0;0;Geada/Frentes frias;Climatológico
+Itumbiara;CE;0;2;12;0;0;Tornados;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Salvador;SE;0;2;15;0;0;Incêndios florestais;Hidrológico
+Rio Verde;PR;1;4;12;1;0;Chuvas Intensas;Incêndios Florestais
+Fortaleza;MG;0;3;11;0;0;Incêndios florestais;Incêndios Florestais
+Curitiba;AP;1;1;15;0;0;Granizo;Hidrológico
+Curitiba;AL;0;0;8;0;0;Enxurradas;Hidrológico
+Trindade;MT;0;1;13;0;0;Erosão Costeira;Geológico
+Brasília;ES;0;3;9;0;0;Tornados;Desastres Tecnológicos (simulando contaminação como consequência)
+Rio de Janeiro;MT;0;3;5;0;0;Inundações graduais;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Rio Verde;MG;0;0;7;0;0;Deslizamentos de terra;Hidrológico
+Trindade;AM;0;2;8;1;0;Chuvas Intensas;Hidrológico
+Rio de Janeiro;MG;0;2;6;0;0;Enxurradas;Hidrológico
+Fortaleza;SP;0;1;9;0;0;Secas e estiagens;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Valparaíso de Goiás;BA;0;1;10;1;0;Granizo;Incêndios Florestais
+São Paulo;AP;0;4;8;0;0;Erosão Costeira;Geológico
+Anápolis;AL;0;0;12;0;0;Vendavais e Ciclones;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Jataí;BA;0;1;15;0;0;Geada/Frentes frias;Hidrológico
+Valparaíso de Goiás;DF;0;1;6;0;0;Inundações graduais;Hidrológico
+Fortaleza;MA;0;0;14;0;0;Subsidência/Colapso de solo;Hidrológico
+Goiânia;AM;0;1;13;1;0;Inundações graduais;Climatológico
+Rio Verde;PB;0;1;9;0;0;Secas e estiagens;Desastres Tecnológicos (simulando contaminação como consequência)
+Salvador;PI;0;2;16;0;0;Subsidência/Colapso de solo;Meteorológico
+Fortaleza;ES;2;2;7;1;0;Deslizamentos de terra;Geológico
+Salvador;SE;0;1;16;0;0;Chuvas Intensas;Hidrológico
+Fortaleza;RO;0;3;7;0;0;Erosão Costeira;Incêndios Florestais
+Trindade;RJ;0;1;9;1;0;Secas e estiagens;Climatológico
+Itumbiara;RS;0;3;8;0;0;Deslizamentos de terra;Meteorológico
+Salvador;RS;0;1;5;1;0;Deslizamentos de terra;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Brasília;MS;0;1;11;1;0;Tornados;Incêndios Florestais
+São Paulo;SE;0;2;14;0;1;Vendavais e Ciclones;Geológico
+Rio de Janeiro;RS;0;2;13;0;0;Geada/Frentes frias;Climatológico
+Trindade;MG;0;3;11;0;1;Secas e estiagens;Meteorológico
+Jataí;SP;0;1;14;0;0;Erosão Costeira;Climatológico
+Rio de Janeiro;RJ;0;0;15;0;0;Subsidência/Colapso de solo;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Catalão;PI;0;2;6;0;0;Granizo;Incêndios Florestais
+Aparecida de Goiânia;TO;0;1;8;0;0;Subsidência/Colapso de solo;Incêndios Florestais
+Rio Verde;RN;0;1;11;0;1;Alagamentos;Meteorológico
+Luziânia;PB;0;2;12;0;0;Chuvas Intensas;Incêndios Florestais
+Goiânia;TO;0;2;6;0;0;Chuvas Intensas;Hidrológico
+Curitiba;PE;0;2;17;0;0;Vendavais e Ciclones;Geológico
+Curitiba;MG;1;0;9;0;0;Erosão Costeira;Hidrológico
+Belo Horizonte;MT;0;2;14;0;0;Enxurradas;Incêndios Florestais
+Fortaleza;AM;0;1;6;0;0;Tornados;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Goiânia;ES;0;2;9;1;0;Geada/Frentes frias;Incêndios Florestais
+Porto Alegre;DF;0;0;9;1;0;Erosão Costeira;Desastres Tecnológicos (simulando contaminação como consequência)
+Manaus;SE;0;0;5;0;0;Alagamentos;Desastres Tecnológicos (simulando contaminação como consequência)
+Jataí;AL;0;2;10;0;0;Chuvas Intensas;Hidrológico
+Trindade;CE;0;3;11;0;0;Tornados;Meteorológico
+Porto Alegre;MT;0;1;14;0;0;Secas e estiagens;Meteorológico
+São Paulo;AC;0;2;16;1;0;Vendavais e Ciclones;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Fortaleza;RN;0;0;9;0;0;Geada/Frentes frias;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Itumbiara;PB;0;2;12;1;0;Secas e estiagens;Climatológico
+Anápolis;SP;0;4;20;0;0;Vendavais e Ciclones;Geológico
+Curitiba;AL;0;4;11;0;0;Tornados;Geológico
+Aparecida de Goiânia;AC;2;1;18;0;0;Geada/Frentes frias;Meteorológico
+Itumbiara;RO;0;3;11;0;0;Granizo;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Curitiba;AP;1;4;15;0;0;Enxurradas;Meteorológico
+Goiânia;MT;0;2;11;0;0;Granizo;Meteorológico
+Brasília;TO;0;1;18;1;0;Subsidência/Colapso de solo;Climatológico
+Jataí;ES;0;0;15;0;0;Inundações graduais;Incêndios Florestais
+Curitiba;BA;0;0;7;0;0;Enxurradas;Incêndios Florestais
+Rio de Janeiro;AM;0;1;16;0;0;Geada/Frentes frias;Geológico
+Curitiba;PE;0;2;7;0;0;Deslizamentos de terra;Hidrológico
+Manaus;MG;0;1;12;1;0;Inundações graduais;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Belo Horizonte;GO;0;2;11;0;0;Vendavais e Ciclones;Incêndios Florestais
+Trindade;ES;0;0;16;0;0;Inundações graduais;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Belo Horizonte;MS;0;1;13;0;0;Alagamentos;Meteorológico
+Manaus;RJ;0;2;17;0;0;Alagamentos;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Belo Horizonte;MS;0;1;7;0;1;Geada/Frentes frias;Desastres Tecnológicos (simulando contaminação como consequência)
+Rio de Janeiro;RN;0;3;10;0;0;Tornados;Desastres Tecnológicos (simulando contaminação como consequência)
+Aparecida de Goiânia;PB;0;0;7;0;0;Tornados;Meteorológico
+Brasília;SE;0;3;9;0;0;Inundações graduais;Geológico
+Belo Horizonte;RJ;0;2;10;0;0;Erosão Costeira;Climatológico
+Aparecida de Goiânia;MS;0;1;10;0;0;Chuvas Intensas;Incêndios Florestais
+Valparaíso de Goiás;AP;0;0;10;0;0;Subsidência/Colapso de solo;Incêndios Florestais
+Catalão;DF;0;1;12;0;0;Enxurradas;Meteorológico
+Rio Verde;PI;0;0;14;0;0;Deslizamentos de terra;Incêndios Florestais
+Fortaleza;PB;0;2;8;0;0;Chuvas Intensas;Desastres Tecnológicos (simulando contaminação como consequência)
+Curitiba;RO;0;3;12;0;0;Deslizamentos de terra;Desastres Tecnológicos (simulando contaminação como consequência)
+São Paulo;AL;0;1;9;0;0;Vendavais e Ciclones;Geológico
+Anápolis;PI;1;3;10;0;0;Secas e estiagens;Geológico
+Manaus;SE;0;1;11;0;0;Vendavais e Ciclones;Hidrológico
+Rio Verde;CE;0;2;8;0;0;Erosão Costeira;Hidrológico
+Belo Horizonte;GO;0;1;6;1;0;Tornados;Incêndios Florestais
+Recife;PI;0;2;9;0;0;Granizo;Geológico
+Luziânia;PE;0;2;6;0;0;Incêndios florestais;Desastres Tecnológicos (simulando contaminação como consequência)
+Rio de Janeiro;AL;1;4;8;0;0;Incêndios florestais;Hidrológico
+Aparecida de Goiânia;PB;0;1;9;0;0;Deslizamentos de terra;Desastres Tecnológicos (simulando contaminação como consequência)
+Luziânia;RR;1;2;14;0;0;Secas e estiagens;Climatológico
+Anápolis;CE;1;3;3;0;1;Alagamentos;Geológico
+Trindade;CE;0;0;7;0;0;Erosão Costeira;Hidrológico
+Goiânia;BA;0;1;12;0;0;Chuvas Intensas;Meteorológico
+Manaus;MG;0;1;3;0;0;Tornados;Geológico
+São Paulo;RJ;0;2;17;1;0;Geada/Frentes frias;Hidrológico
+Belo Horizonte;SE;0;3;6;0;0;Geada/Frentes frias;Incêndios Florestais
+Itumbiara;CE;0;1;8;0;0;Vendavais e Ciclones;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Belo Horizonte;SE;0;0;15;0;0;Incêndios florestais;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Aparecida de Goiânia;BA;0;3;8;0;0;Secas e estiagens;Meteorológico
+Manaus;RS;0;0;13;0;0;Tornados;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Catalão;RJ;0;4;9;0;0;Alagamentos;Desastres Tecnológicos (simulando contaminação como consequência)
+Catalão;DF;0;1;5;0;0;Secas e estiagens;Desastres Tecnológicos (simulando contaminação como consequência)
+Itumbiara;AM;0;1;11;0;0;Chuvas Intensas;Incêndios Florestais
+Salvador;PB;0;0;5;0;0;Alagamentos;Geológico
+Itumbiara;TO;1;0;9;0;0;Secas e estiagens;Climatológico
+Rio Verde;RS;0;3;5;0;0;Inundações graduais;Hidrológico
+Recife;PB;0;0;8;0;0;Secas e estiagens;Incêndios Florestais
+Catalão;RO;0;2;8;0;0;Enxurradas;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Goiânia;MS;0;4;10;0;1;Alagamentos;Climatológico
+Trindade;MS;0;4;13;0;0;Tornados;Desastres Tecnológicos (simulando contaminação como consequência)
+Luziânia;MT;0;3;14;0;0;Chuvas Intensas;Hidrológico
+Belo Horizonte;BA;0;1;11;0;1;Subsidência/Colapso de solo;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+São Paulo;SP;0;2;13;0;0;Geada/Frentes frias;Incêndios Florestais
+Jataí;RJ;0;1;9;0;0;Alagamentos;Meteorológico
+Jataí;AC;1;3;11;1;0;Tornados;Incêndios Florestais
+Aparecida de Goiânia;RS;0;1;10;0;0;Subsidência/Colapso de solo;Meteorológico
+Salvador;RS;0;0;10;1;0;Tornados;Desastres Tecnológicos (simulando contaminação como consequência)
+Rio Verde;PB;0;0;11;0;0;Alagamentos;Hidrológico
+Anápolis;BA;1;1;9;0;0;Inundações graduais;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Salvador;GO;0;1;12;0;0;Chuvas Intensas;Meteorológico
+Catalão;RR;0;2;8;0;0;Alagamentos;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Brasília;RS;0;0;14;0;0;Alagamentos;Meteorológico
+Valparaíso de Goiás;GO;0;0;12;0;0;Erosão Costeira;Incêndios Florestais
+Luziânia;PE;1;2;8;0;0;Subsidência/Colapso de solo;Climatológico
+Luziânia;SC;0;0;13;0;0;Deslizamentos de terra;Geológico
+Rio de Janeiro;CE;0;2;11;1;0;Inundações graduais;Geológico
+Manaus;AC;0;0;10;0;0;Incêndios florestais;Hidrológico
+Rio de Janeiro;SE;0;3;4;1;0;Enxurradas;Meteorológico
+São Paulo;AM;1;1;6;0;0;Tornados;Desastres Tecnológicos (simulando contaminação como consequência)
+Fortaleza;MS;0;1;7;0;0;Inundações graduais;Geológico
+Brasília;AC;0;1;7;0;1;Erosão Costeira;Meteorológico
+Luziânia;PB;0;0;7;0;0;Secas e estiagens;Desastres Tecnológicos (simulando contaminação como consequência)
+Itumbiara;PE;0;4;14;1;0;Alagamentos;Climatológico
+Goiânia;AM;0;2;13;0;0;Subsidência/Colapso de solo;Hidrológico
+São Paulo;AC;0;2;9;0;0;Chuvas Intensas;Desastres Tecnológicos (simulando contaminação como consequência)
+Curitiba;RR;1;1;3;0;0;Erosão Costeira;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Catalão;PA;0;0;13;0;0;Tornados;Climatológico
+Porto Alegre;AM;1;0;9;0;0;Geada/Frentes frias;Incêndios Florestais
+Fortaleza;RJ;0;1;8;0;1;Vendavais e Ciclones;Incêndios Florestais
+Goiânia;AC;0;0;8;0;0;Geada/Frentes frias;Meteorológico
+Trindade;PR;0;2;16;1;0;Enxurradas;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Aparecida de Goiânia;MS;0;1;20;0;0;Incêndios florestais;Geológico
+Fortaleza;RR;0;1;16;0;0;Alagamentos;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Rio de Janeiro;AC;2;1;14;0;1;Granizo;Geológico
+Porto Alegre;ES;0;6;6;0;0;Enxurradas;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+São Paulo;DF;0;2;11;0;0;Chuvas Intensas;Climatológico
+Rio Verde;MG;1;3;16;0;0;Deslizamentos de terra;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Goiânia;TO;0;2;10;0;0;Subsidência/Colapso de solo;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Recife;AM;0;1;8;0;0;Secas e estiagens;Climatológico
+Goiânia;AM;0;3;8;0;0;Secas e estiagens;Geológico
+São Paulo;SP;0;2;10;0;0;Chuvas Intensas;Incêndios Florestais
+Itumbiara;MA;0;1;13;0;0;Subsidência/Colapso de solo;Incêndios Florestais
+Rio Verde;DF;0;0;10;0;1;Incêndios florestais;Incêndios Florestais
+Valparaíso de Goiás;AL;0;0;19;0;0;Erosão Costeira;Meteorológico
+Belo Horizonte;GO;1;1;9;1;1;Alagamentos;Incêndios Florestais
+Porto Alegre;PA;0;1;16;1;0;Alagamentos;Desastres Tecnológicos (simulando contaminação como consequência)
+Itumbiara;AC;0;1;11;1;0;Alagamentos;Meteorológico
+Belo Horizonte;DF;0;2;7;1;0;Subsidência/Colapso de solo;Incêndios Florestais
+Brasília;RJ;0;0;9;0;0;Subsidência/Colapso de solo;Geológico
+Porto Alegre;RR;0;5;7;0;0;Subsidência/Colapso de solo;Geológico
+Porto Alegre;ES;0;1;9;1;0;Erosão Costeira;Geológico
+Catalão;PE;1;2;8;1;0;Alagamentos;Climatológico
+Porto Alegre;AP;0;0;12;0;1;Vendavais e Ciclones;Hidrológico
+Anápolis;AP;0;1;8;0;0;Chuvas Intensas;Incêndios Florestais
+Valparaíso de Goiás;RO;0;0;10;0;1;Subsidência/Colapso de solo;Climatológico
+Belo Horizonte;PR;1;0;14;0;0;Chuvas Intensas;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Catalão;DF;0;0;11;0;1;Enxurradas;Geológico
+Salvador;MT;0;0;14;0;0;Deslizamentos de terra;Climatológico
+Trindade;BA;0;1;12;0;0;Geada/Frentes frias;Climatológico
+Curitiba;DF;0;2;9;1;0;Erosão Costeira;Meteorológico
+Jataí;MA;0;1;7;0;0;Inundações graduais;Desastres Tecnológicos (simulando contaminação como consequência)
+Aparecida de Goiânia;MG;0;0;10;1;0;Tornados;Climatológico
+Goiânia;AL;0;3;10;1;0;Subsidência/Colapso de solo;Hidrológico
+São Paulo;RJ;0;2;4;0;0;Tornados;Incêndios Florestais
+Aparecida de Goiânia;GO;0;0;8;1;0;Chuvas Intensas;Incêndios Florestais
+Goiânia;BA;0;3;12;0;0;Geada/Frentes frias;Geológico
+Aparecida de Goiânia;RN;0;1;9;0;1;Secas e estiagens;Incêndios Florestais
+Valparaíso de Goiás;PB;0;1;8;0;0;Inundações graduais;Hidrológico
+Trindade;AL;0;2;4;0;0;Chuvas Intensas;Geológico
+Anápolis;ES;0;3;12;0;0;Alagamentos;Hidrológico
+Trindade;RJ;1;1;8;0;0;Erosão Costeira;Climatológico
+Goiânia;RS;0;2;9;0;0;Erosão Costeira;Desastres Tecnológicos (simulando contaminação como consequência)
+Valparaíso de Goiás;BA;0;0;10;0;0;Vendavais e Ciclones;Geológico
+Rio Verde;MA;0;2;14;0;0;Inundações graduais;Hidrológico
+São Paulo;RR;0;2;8;0;0;Alagamentos;Geológico
+Luziânia;AM;0;4;7;0;0;Deslizamentos de terra;Hidrológico
+Rio de Janeiro;TO;0;0;12;0;1;Vendavais e Ciclones;Desastres Tecnológicos (simulando contaminação como consequência)
+Belo Horizonte;MG;0;1;13;0;0;Granizo;Incêndios Florestais
+Valparaíso de Goiás;AL;0;4;8;0;0;Secas e estiagens;Geológico
+Luziânia;BA;0;0;11;0;0;Incêndios florestais;Climatológico
+Belo Horizonte;PB;1;2;10;0;0;Granizo;Climatológico
+Brasília;AL;1;1;9;0;0;Chuvas Intensas;Meteorológico
+Catalão;MS;0;2;8;0;0;Secas e estiagens;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Salvador;SE;0;0;12;0;0;Geada/Frentes frias;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Valparaíso de Goiás;MS;0;4;8;0;0;Chuvas Intensas;Climatológico
+Jataí;PI;1;1;12;0;0;Incêndios florestais;Meteorológico
+Anápolis;DF;0;3;13;0;0;Subsidência/Colapso de solo;Desastres Tecnológicos (simulando contaminação como consequência)
+Anápolis;AL;0;3;16;0;0;Secas e estiagens;Meteorológico
+Aparecida de Goiânia;RR;0;0;9;0;0;Geada/Frentes frias;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Trindade;RR;0;1;12;0;0;Erosão Costeira;Climatológico
+Jataí;AC;0;2;8;0;0;Chuvas Intensas;Geológico
+Curitiba;CE;1;1;11;0;0;Tornados;Hidrológico
+Belo Horizonte;MT;0;0;7;0;0;Tornados;Incêndios Florestais
+Fortaleza;RO;0;4;9;0;0;Alagamentos;Geológico
+Aparecida de Goiânia;PE;0;0;13;0;0;Subsidência/Colapso de solo;Meteorológico
+Anápolis;CE;0;0;10;0;0;Erosão Costeira;Climatológico
+São Paulo;PI;0;2;11;0;0;Granizo;Hidrológico
+Recife;MG;0;2;14;1;1;Tornados;Climatológico
+São Paulo;CE;0;1;10;0;0;Tornados;Hidrológico
+Valparaíso de Goiás;MG;0;2;13;0;0;Tornados;Desastres Tecnológicos (simulando contaminação como consequência)
+Rio Verde;MS;0;0;12;0;0;Granizo;Geológico
+Aparecida de Goiânia;SE;0;0;10;0;0;Geada/Frentes frias;Meteorológico
+Rio de Janeiro;CE;0;2;12;0;0;Chuvas Intensas;Hidrológico
+Salvador;TO;0;0;10;0;0;Secas e estiagens;Meteorológico
+Itumbiara;AC;1;4;12;0;0;Secas e estiagens;Hidrológico
+Belo Horizonte;RR;0;0;15;1;0;Subsidência/Colapso de solo;Geológico
+Porto Alegre;RO;0;3;9;0;0;Secas e estiagens;Desastres Tecnológicos (simulando contaminação como consequência)
+Fortaleza;DF;0;2;12;0;0;Erosão Costeira;Hidrológico
+Aparecida de Goiânia;AP;0;1;5;1;0;Subsidência/Colapso de solo;Hidrológico
+Valparaíso de Goiás;PB;0;2;6;0;0;Erosão Costeira;Hidrológico
+Belo Horizonte;RN;0;1;14;0;1;Inundações graduais;Meteorológico
+Rio de Janeiro;TO;0;2;10;0;0;Subsidência/Colapso de solo;Meteorológico
+Brasília;RS;1;0;12;1;1;Incêndios florestais;Incêndios Florestais
+Manaus;CE;0;0;5;0;0;Enxurradas;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Porto Alegre;MG;0;4;11;0;0;Geada/Frentes frias;Meteorológico
+Valparaíso de Goiás;MA;0;0;7;0;0;Incêndios florestais;Climatológico
+Valparaíso de Goiás;CE;0;1;7;0;1;Geada/Frentes frias;Meteorológico
+Porto Alegre;PA;0;1;9;0;0;Enxurradas;Hidrológico
+Brasília;RR;0;1;10;0;0;Enxurradas;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Belo Horizonte;MA;0;2;6;1;0;Vendavais e Ciclones;Climatológico
+Goiânia;RN;1;1;11;0;0;Inundações graduais;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Aparecida de Goiânia;SC;0;0;10;0;0;Secas e estiagens;Geológico
+Rio de Janeiro;MG;0;2;6;0;0;Chuvas Intensas;Geológico
+Jataí;MG;0;3;7;0;0;Enxurradas;Geológico
+Brasília;RN;0;0;10;1;0;Geada/Frentes frias;Geológico
+Porto Alegre;SC;0;0;9;1;0;Chuvas Intensas;Incêndios Florestais
+Itumbiara;RR;0;1;12;0;0;Alagamentos;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Rio Verde;CE;0;2;11;1;0;Alagamentos;Meteorológico
+Rio de Janeiro;AL;1;0;12;0;0;Erosão Costeira;Hidrológico
+Valparaíso de Goiás;PA;0;3;12;0;0;Secas e estiagens;Climatológico
+Curitiba;AC;0;4;12;0;0;Alagamentos;Hidrológico
+São Paulo;AL;0;1;9;0;0;Granizo;Meteorológico
+Rio de Janeiro;MG;0;1;8;0;0;Secas e estiagens;Climatológico
+Anápolis;RN;0;1;11;0;0;Vendavais e Ciclones;Desastres Tecnológicos (simulando contaminação como consequência)
+São Paulo;RN;0;0;6;0;0;Erosão Costeira;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Jataí;MT;0;4;7;0;1;Erosão Costeira;Meteorológico
+Anápolis;AC;1;0;9;1;0;Secas e estiagens;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Goiânia;SC;0;0;8;0;0;Vendavais e Ciclones;Incêndios Florestais
+Goiânia;PI;1;2;11;0;0;Alagamentos;Incêndios Florestais
+Luziânia;PE;0;1;11;0;0;Granizo;Desastres Tecnológicos (simulando contaminação como consequência)
+Itumbiara;MG;0;1;8;0;0;Vendavais e Ciclones;Incêndios Florestais
+Recife;SC;0;1;15;0;0;Subsidência/Colapso de solo;Meteorológico
+Curitiba;GO;0;2;13;1;0;Erosão Costeira;Geológico
+São Paulo;PI;0;2;7;0;0;Erosão Costeira;Climatológico
+Rio Verde;SE;0;1;9;0;0;Subsidência/Colapso de solo;Meteorológico
+Anápolis;AL;0;1;9;0;0;Incêndios florestais;Incêndios Florestais
+São Paulo;AP;0;1;9;1;0;Enxurradas;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Belo Horizonte;RO;1;3;10;0;0;Erosão Costeira;Hidrológico
+Fortaleza;RN;0;0;18;0;0;Inundações graduais;Hidrológico
+Rio Verde;PB;1;4;11;0;0;Geada/Frentes frias;Climatológico
+Manaus;PB;0;0;7;1;0;Geada/Frentes frias;Meteorológico
+Curitiba;RR;0;4;13;0;0;Secas e estiagens;Desastres Tecnológicos (simulando contaminação como consequência)
+Anápolis;AC;0;3;13;1;0;Incêndios florestais;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Curitiba;RO;0;3;4;0;0;Tornados;Meteorológico
+Curitiba;PR;0;0;14;0;0;Enxurradas;Geológico
+Rio de Janeiro;SP;0;2;14;0;0;Enxurradas;Meteorológico
+São Paulo;CE;0;2;9;0;0;Tornados;Desastres Tecnológicos (simulando contaminação como consequência)
+Rio Verde;MA;0;0;12;0;0;Enxurradas;Geológico
+Curitiba;DF;0;2;9;0;0;Enxurradas;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Fortaleza;TO;2;0;12;1;0;Enxurradas;Incêndios Florestais
+Manaus;SE;0;1;13;1;0;Alagamentos;Climatológico
+Jataí;AL;0;0;10;0;0;Enxurradas;Climatológico
+São Paulo;RJ;0;0;11;0;0;Granizo;Geológico
+Luziânia;RJ;0;1;9;0;0;Subsidência/Colapso de solo;Climatológico
+Trindade;AP;0;2;13;0;0;Vendavais e Ciclones;Meteorológico
+Manaus;RS;0;3;7;0;0;Incêndios florestais;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Aparecida de Goiânia;AC;0;3;8;0;0;Vendavais e Ciclones;Incêndios Florestais
+Itumbiara;CE;0;1;12;0;0;Vendavais e Ciclones;Meteorológico
+Anápolis;RR;0;0;9;0;0;Geada/Frentes frias;Geológico
+Manaus;PR;0;1;10;0;0;Secas e estiagens;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Fortaleza;MS;0;2;8;0;0;Secas e estiagens;Hidrológico
+Catalão;RO;1;0;8;1;0;Granizo;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Jataí;RN;0;0;6;0;0;Vendavais e Ciclones;Desastres Tecnológicos (simulando contaminação como consequência)
+Goiânia;RJ;1;3;14;0;0;Subsidência/Colapso de solo;Desastres Tecnológicos (simulando contaminação como consequência)
+Porto Alegre;PR;0;2;14;0;0;Subsidência/Colapso de solo;Incêndios Florestais
+Salvador;AP;1;1;12;0;0;Subsidência/Colapso de solo;Hidrológico
+Aparecida de Goiânia;RJ;0;1;7;0;0;Vendavais e Ciclones;Meteorológico
+Rio de Janeiro;PR;0;2;9;0;1;Alagamentos;Desastres Tecnológicos (simulando contaminação como consequência)
+Anápolis;TO;0;1;14;0;0;Tornados;Incêndios Florestais
+Aparecida de Goiânia;BA;0;2;13;1;0;Incêndios florestais;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+São Paulo;RO;1;0;11;1;0;Chuvas Intensas;Geológico
+Goiânia;RN;0;1;14;0;0;Granizo;Meteorológico
+Brasília;MG;0;2;11;0;0;Chuvas Intensas;Geológico
+Porto Alegre;PB;1;2;4;0;0;Alagamentos;Meteorológico
+Valparaíso de Goiás;SC;0;0;11;1;0;Tornados;Meteorológico
+Brasília;DF;0;0;11;0;0;Chuvas Intensas;Meteorológico
+Rio Verde;AL;0;1;6;0;0;Subsidência/Colapso de solo;Geológico
+Belo Horizonte;RS;0;3;10;0;0;Vendavais e Ciclones;Incêndios Florestais
+Goiânia;AL;0;2;15;0;0;Tornados;Geológico
+Fortaleza;SP;0;2;13;0;0;Secas e estiagens;Geológico
+Catalão;DF;0;3;9;0;0;Deslizamentos de terra;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Salvador;ES;1;1;16;0;0;Deslizamentos de terra;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Goiânia;RJ;0;0;6;1;0;Granizo;Meteorológico
+Belo Horizonte;CE;0;1;8;0;0;Enxurradas;Geológico
+São Paulo;MG;0;0;12;0;0;Alagamentos;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Recife;SE;1;1;14;0;0;Tornados;Desastres Tecnológicos (simulando contaminação como consequência)
+Recife;TO;1;3;11;1;0;Enxurradas;Incêndios Florestais
+Recife;RR;1;3;11;1;0;Deslizamentos de terra;Geológico
+São Paulo;DF;0;2;12;0;0;Deslizamentos de terra;Geológico
+Recife;MG;0;3;11;0;0;Vendavais e Ciclones;Geológico
+Goiânia;AM;0;2;9;0;0;Incêndios florestais;Meteorológico
+Manaus;DF;0;1;11;0;0;Subsidência/Colapso de solo;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Trindade;MT;0;4;9;0;0;Granizo;Incêndios Florestais
+São Paulo;MG;2;0;12;0;0;Enxurradas;Hidrológico
+Rio de Janeiro;MA;0;3;10;0;0;Alagamentos;Geológico
+Anápolis;PB;0;0;10;0;0;Incêndios florestais;Climatológico
+Goiânia;MT;1;3;13;0;0;Deslizamentos de terra;Desastres Tecnológicos (simulando contaminação como consequência)
+Aparecida de Goiânia;SC;0;0;12;0;0;Vendavais e Ciclones;Desastres Tecnológicos (simulando contaminação como consequência)
+São Paulo;RO;0;1;7;0;0;Incêndios florestais;Incêndios Florestais
+Porto Alegre;AC;0;3;11;0;0;Tornados;Hidrológico
+Curitiba;AC;1;0;6;0;0;Tornados;Climatológico
+São Paulo;MT;0;0;7;0;0;Erosão Costeira;Geológico
+Fortaleza;RO;0;0;12;0;0;Secas e estiagens;Climatológico
+Itumbiara;DF;0;0;14;0;0;Erosão Costeira;Desastres Tecnológicos (simulando contaminação como consequência)
+Salvador;ES;0;1;17;0;0;Alagamentos;Desastres Tecnológicos (simulando contaminação como consequência)
+Porto Alegre;MG;0;1;9;0;0;Alagamentos;Hidrológico
+Curitiba;PB;0;2;12;0;0;Inundações graduais;Hidrológico
+Belo Horizonte;PI;0;1;10;0;0;Chuvas Intensas;Hidrológico
+Brasília;RR;1;3;10;1;0;Incêndios florestais;Incêndios Florestais
+Fortaleza;BA;0;0;8;0;1;Chuvas Intensas;Incêndios Florestais
+Anápolis;AM;3;0;7;0;1;Tornados;Incêndios Florestais
+Salvador;SC;0;1;11;0;0;Vendavais e Ciclones;Meteorológico
+Jataí;ES;0;4;11;0;0;Erosão Costeira;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Salvador;RN;0;3;12;0;1;Erosão Costeira;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Salvador;AP;0;0;4;1;1;Tornados;Meteorológico
+Luziânia;RJ;0;2;6;0;1;Chuvas Intensas;Hidrológico
+Manaus;RN;1;1;7;0;0;Geada/Frentes frias;Incêndios Florestais
+Manaus;AM;0;1;6;0;0;Tornados;Desastres Tecnológicos (simulando contaminação como consequência)
+Rio de Janeiro;MA;0;1;13;0;0;Enxurradas;Geológico
+São Paulo;RN;1;1;14;0;1;Chuvas Intensas;Hidrológico
+Valparaíso de Goiás;AC;0;3;10;1;0;Tornados;Incêndios Florestais
+Catalão;CE;1;1;8;0;0;Tornados;Geológico
+Recife;AM;1;4;9;0;0;Erosão Costeira;Climatológico
+Trindade;PA;0;2;13;1;0;Enxurradas;Incêndios Florestais
+Salvador;BA;0;2;9;0;0;Alagamentos;Incêndios Florestais
+Rio de Janeiro;PI;0;1;8;1;1;Enxurradas;Climatológico
+São Paulo;PB;0;1;13;0;0;Erosão Costeira;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Itumbiara;RN;0;1;9;0;1;Subsidência/Colapso de solo;Meteorológico
+Catalão;ES;1;1;9;0;0;Vendavais e Ciclones;Hidrológico
+Trindade;RO;0;1;5;0;0;Alagamentos;Climatológico
+Trindade;RS;0;0;10;0;1;Tornados;Climatológico
+Salvador;TO;0;1;8;0;0;Enxurradas;Geológico
+Aparecida de Goiânia;MT;0;2;4;0;1;Chuvas Intensas;Hidrológico
+Anápolis;MT;0;1;10;1;0;Granizo;Geológico
+Salvador;ES;0;2;4;0;0;Deslizamentos de terra;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Luziânia;AP;0;2;6;1;0;Subsidência/Colapso de solo;Meteorológico
+Curitiba;RS;0;1;11;0;0;Deslizamentos de terra;Desastres Tecnológicos (simulando contaminação como consequência)
+Salvador;SP;0;0;9;0;0;Enxurradas;Climatológico
+Catalão;RS;0;4;10;1;0;Chuvas Intensas;Climatológico
+Rio Verde;GO;0;0;10;1;0;Tornados;Hidrológico
+Recife;MA;0;1;16;0;0;Erosão Costeira;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Manaus;SP;0;2;9;0;0;Geada/Frentes frias;Climatológico
+Manaus;RO;0;1;8;0;0;Alagamentos;Incêndios Florestais
+Aparecida de Goiânia;AM;0;2;13;0;0;Alagamentos;Hidrológico
+Catalão;RO;0;1;7;0;0;Alagamentos;Desastres Tecnológicos (simulando contaminação como consequência)
+Goiânia;PA;1;0;9;0;0;Enxurradas;Climatológico
+Aparecida de Goiânia;PI;0;1;12;0;0;Chuvas Intensas;Incêndios Florestais
+Anápolis;PI;0;0;15;0;0;Chuvas Intensas;Incêndios Florestais
+Anápolis;MG;0;3;8;0;0;Erosão Costeira;Incêndios Florestais
+Anápolis;MA;0;1;12;0;0;Vendavais e Ciclones;Desastres Tecnológicos (simulando contaminação como consequência)
+Rio Verde;SP;0;0;8;0;0;Enxurradas;Climatológico
+Curitiba;DF;1;2;6;0;0;Vendavais e Ciclones;Hidrológico
+Aparecida de Goiânia;AP;0;1;13;0;0;Inundações graduais;Incêndios Florestais
+Trindade;SP;0;3;11;0;0;Vendavais e Ciclones;Meteorológico
+Luziânia;AP;0;2;8;1;0;Erosão Costeira;Hidrológico
+Brasília;MA;0;3;18;0;1;Granizo;Geológico
+Itumbiara;PI;0;2;11;0;0;Chuvas Intensas;Hidrológico
+Luziânia;MA;0;0;6;0;0;Tornados;Hidrológico
+São Paulo;GO;0;1;9;1;0;Vendavais e Ciclones;Incêndios Florestais
+Curitiba;RR;0;3;11;0;0;Vendavais e Ciclones;Meteorológico
+Goiânia;RR;0;1;7;0;0;Erosão Costeira;Hidrológico
+Trindade;MS;0;0;7;0;0;Tornados;Desastres Tecnológicos (simulando contaminação como consequência)
+Porto Alegre;PR;0;1;7;0;0;Enxurradas;Geológico
+Belo Horizonte;MG;0;0;13;0;0;Vendavais e Ciclones;Hidrológico
+Curitiba;MT;1;4;11;0;0;Deslizamentos de terra;Desastres Tecnológicos (simulando contaminação como consequência)
+Itumbiara;DF;1;1;9;0;0;Geada/Frentes frias;Incêndios Florestais
+Fortaleza;AL;0;3;10;0;0;Erosão Costeira;Hidrológico
+São Paulo;RN;1;3;11;0;0;Incêndios florestais;Geológico
+Trindade;PI;1;0;5;0;0;Enxurradas;Hidrológico
+Porto Alegre;PB;0;3;9;0;0;Geada/Frentes frias;Meteorológico
+Curitiba;MG;0;1;8;1;1;Secas e estiagens;Incêndios Florestais
+Fortaleza;SC;0;2;12;0;1;Geada/Frentes frias;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Goiânia;DF;0;1;13;0;0;Granizo;Hidrológico
+Anápolis;RR;1;0;13;0;0;Inundações graduais;Geológico
+São Paulo;RN;0;1;6;1;1;Alagamentos;Incêndios Florestais
+Anápolis;MS;1;2;17;0;0;Enxurradas;Meteorológico
+Brasília;PR;0;2;13;0;0;Granizo;Desastres Tecnológicos (simulando contaminação como consequência)
+Rio Verde;RO;1;2;9;1;0;Alagamentos;Meteorológico
+Anápolis;RO;0;0;9;0;0;Alagamentos;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Fortaleza;CE;0;2;9;0;0;Erosão Costeira;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Rio de Janeiro;RS;0;1;12;0;0;Vendavais e Ciclones;Meteorológico
+Belo Horizonte;PI;0;0;6;0;1;Vendavais e Ciclones;Desastres Tecnológicos (simulando contaminação como consequência)
+Valparaíso de Goiás;RR;0;0;16;0;0;Secas e estiagens;Climatológico
+Catalão;AP;0;1;16;0;1;Granizo;Geológico
+Rio de Janeiro;PA;1;0;8;0;0;Chuvas Intensas;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Brasília;RR;2;0;10;0;0;Enxurradas;Climatológico
+Rio Verde;ES;0;3;9;0;0;Granizo;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Aparecida de Goiânia;PB;1;1;6;1;0;Chuvas Intensas;Geológico
+Brasília;DF;0;1;15;0;0;Erosão Costeira;Meteorológico
+Valparaíso de Goiás;RN;0;0;11;0;0;Tornados;Geológico
+Brasília;PE;0;1;4;0;0;Chuvas Intensas;Desastres Tecnológicos (simulando contaminação como consequência)
+Brasília;AC;0;1;14;1;0;Chuvas Intensas;Climatológico
+Anápolis;PI;0;1;5;0;0;Granizo;Climatológico
+Goiânia;RN;0;0;13;1;0;Tornados;Desastres Tecnológicos (simulando contaminação como consequência)
+Brasília;TO;0;0;11;0;0;Alagamentos;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Manaus;MS;0;3;8;0;0;Incêndios florestais;Geológico
+Luziânia;PR;0;5;9;1;0;Secas e estiagens;Geológico
+Valparaíso de Goiás;PE;0;1;7;0;0;Vendavais e Ciclones;Incêndios Florestais
+Porto Alegre;MG;0;0;12;0;0;Chuvas Intensas;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Luziânia;SP;0;2;5;0;0;Erosão Costeira;Desastres Tecnológicos (simulando contaminação como consequência)
+Salvador;AC;0;0;9;1;0;Secas e estiagens;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Curitiba;BA;1;1;10;0;0;Incêndios florestais;Hidrológico
+Manaus;MG;1;2;21;1;0;Alagamentos;Geológico
+Goiânia;RN;0;1;11;0;0;Inundações graduais;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Brasília;DF;0;1;12;0;0;Erosão Costeira;Hidrológico
+Luziânia;PB;0;1;12;1;0;Alagamentos;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Catalão;SC;0;1;15;0;0;Enxurradas;Incêndios Florestais
+Anápolis;AP;0;1;11;0;0;Geada/Frentes frias;Incêndios Florestais
+Aparecida de Goiânia;ES;0;3;7;0;0;Vendavais e Ciclones;Meteorológico
+Aparecida de Goiânia;SP;0;0;11;0;0;Deslizamentos de terra;Incêndios Florestais
+Manaus;AC;1;2;18;0;0;Subsidência/Colapso de solo;Incêndios Florestais
+Salvador;GO;0;1;12;0;0;Incêndios florestais;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Anápolis;PA;0;2;7;0;0;Granizo;Hidrológico
+Valparaíso de Goiás;PA;0;1;13;0;0;Geada/Frentes frias;Geológico
+Trindade;SE;0;3;15;0;0;Chuvas Intensas;Desastres Tecnológicos (simulando contaminação como consequência)
+São Paulo;SC;0;0;9;0;0;Geada/Frentes frias;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Trindade;CE;1;1;7;0;0;Secas e estiagens;Meteorológico
+Jataí;RS;0;2;11;1;0;Incêndios florestais;Desastres Tecnológicos (simulando contaminação como consequência)
+Curitiba;RO;0;4;12;0;0;Alagamentos;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Itumbiara;GO;0;1;9;0;0;Deslizamentos de terra;Incêndios Florestais
+Itumbiara;MT;1;3;10;0;0;Incêndios florestais;Desastres Tecnológicos (simulando contaminação como consequência)
+Goiânia;CE;0;0;5;0;0;Incêndios florestais;Meteorológico
+Trindade;MA;0;0;10;0;0;Enxurradas;Geológico
+Porto Alegre;GO;0;1;10;1;0;Enxurradas;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Itumbiara;CE;0;1;5;0;0;Incêndios florestais;Incêndios Florestais
+Trindade;MS;0;1;6;0;0;Vendavais e Ciclones;Geológico
+Recife;PI;0;0;6;0;1;Alagamentos;Meteorológico
+Goiânia;RR;0;6;8;0;0;Deslizamentos de terra;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Catalão;RN;0;4;12;0;1;Tornados;Desastres Tecnológicos (simulando contaminação como consequência)
+Aparecida de Goiânia;RS;0;0;12;1;0;Chuvas Intensas;Incêndios Florestais
+Manaus;RO;0;0;13;0;0;Inundações graduais;Meteorológico
+Rio Verde;RJ;0;0;13;0;0;Inundações graduais;Geológico
+Rio Verde;AC;0;1;6;0;0;Vendavais e Ciclones;Hidrológico
+Belo Horizonte;MG;0;0;12;0;0;Inundações graduais;Incêndios Florestais
+Rio Verde;GO;0;0;12;0;1;Alagamentos;Desastres Tecnológicos (simulando contaminação como consequência)
+Brasília;MG;0;2;9;0;0;Vendavais e Ciclones;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Brasília;PA;1;0;7;0;0;Secas e estiagens;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Salvador;MA;0;0;6;0;0;Deslizamentos de terra;Desastres Tecnológicos (simulando contaminação como consequência)
+Valparaíso de Goiás;PR;0;0;7;0;1;Chuvas Intensas;Incêndios Florestais
+Porto Alegre;GO;0;0;14;0;0;Incêndios florestais;Desastres Tecnológicos (simulando contaminação como consequência)
+Fortaleza;SC;1;2;9;0;0;Inundações graduais;Incêndios Florestais
+Aparecida de Goiânia;BA;1;1;13;0;0;Erosão Costeira;Hidrológico
+Trindade;RO;0;0;14;0;0;Incêndios florestais;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Catalão;MT;0;2;7;0;0;Alagamentos;Geológico
+Porto Alegre;RJ;0;0;9;0;0;Granizo;Climatológico
+Recife;AM;0;2;7;0;0;Inundações graduais;Desastres Tecnológicos (simulando contaminação como consequência)
+Jataí;RN;0;2;9;0;0;Geada/Frentes frias;Incêndios Florestais
+Trindade;GO;0;1;13;0;0;Granizo;Geológico
+Curitiba;MG;2;0;7;0;1;Alagamentos;Hidrológico
+Brasília;CE;0;0;10;0;0;Subsidência/Colapso de solo;Desastres Tecnológicos (simulando contaminação como consequência)
+Valparaíso de Goiás;SE;0;3;6;0;0;Secas e estiagens;Hidrológico
+Curitiba;AP;0;1;10;0;0;Deslizamentos de terra;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Jataí;ES;1;1;11;0;0;Subsidência/Colapso de solo;Climatológico
+Fortaleza;GO;0;1;4;0;0;Enxurradas;Climatológico
+Anápolis;ES;0;2;10;0;0;Erosão Costeira;Desastres Tecnológicos (simulando contaminação como consequência)
+Manaus;RS;0;5;13;1;1;Incêndios florestais;Climatológico
+Curitiba;SC;0;1;15;0;0;Subsidência/Colapso de solo;Desastres Tecnológicos (simulando contaminação como consequência)
+Recife;AP;0;2;6;0;0;Alagamentos;Hidrológico
+Goiânia;PE;1;2;13;0;0;Granizo;Geológico
+Valparaíso de Goiás;ES;1;1;10;0;0;Enxurradas;Geológico
+Manaus;ES;0;0;14;0;0;Alagamentos;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Trindade;SP;0;4;13;0;0;Deslizamentos de terra;Hidrológico
+Valparaíso de Goiás;ES;0;0;9;1;0;Vendavais e Ciclones;Climatológico
+Rio Verde;SP;0;1;14;0;0;Chuvas Intensas;Hidrológico
+Goiânia;MT;0;2;12;0;0;Inundações graduais;Climatológico
+Jataí;RS;2;1;8;0;0;Inundações graduais;Hidrológico
+Itumbiara;SE;1;3;16;0;1;Vendavais e Ciclones;Incêndios Florestais
+Aparecida de Goiânia;AL;0;2;12;0;0;Deslizamentos de terra;Incêndios Florestais
+Valparaíso de Goiás;MT;1;1;8;0;0;Alagamentos;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Belo Horizonte;RN;0;3;9;0;0;Incêndios florestais;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Valparaíso de Goiás;SC;0;2;12;0;0;Geada/Frentes frias;Geológico
+Jataí;AC;1;2;14;0;0;Geada/Frentes frias;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Rio de Janeiro;RR;0;2;11;0;0;Vendavais e Ciclones;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Anápolis;SP;0;0;8;0;0;Chuvas Intensas;Desastres Tecnológicos (simulando contaminação como consequência)
+Catalão;PR;0;1;11;0;0;Geada/Frentes frias;Meteorológico
+Curitiba;AM;1;0;8;0;0;Deslizamentos de terra;Incêndios Florestais
+Trindade;TO;0;3;13;0;0;Inundações graduais;Meteorológico
+Aparecida de Goiânia;RN;0;4;11;0;0;Geada/Frentes frias;Hidrológico
+São Paulo;AC;2;0;7;0;0;Geada/Frentes frias;Geológico
+Valparaíso de Goiás;PI;0;0;11;0;0;Geada/Frentes frias;Incêndios Florestais
+Jataí;RS;0;1;9;0;0;Subsidência/Colapso de solo;Geológico
+Belo Horizonte;SE;0;2;13;0;0;Granizo;Meteorológico
+Porto Alegre;AC;0;3;12;0;0;Incêndios florestais;Desastres Tecnológicos (simulando contaminação como consequência)
+São Paulo;BA;0;2;11;1;0;Chuvas Intensas;Desastres Tecnológicos (simulando contaminação como consequência)
+Fortaleza;AC;0;1;13;0;0;Geada/Frentes frias;Meteorológico
+Jataí;RR;0;0;5;0;0;Tornados;Meteorológico
+Catalão;RO;0;2;6;0;0;Alagamentos;Desastres Tecnológicos (simulando contaminação como consequência)
+Luziânia;PA;1;1;7;0;0;Deslizamentos de terra;Desastres Tecnológicos (simulando contaminação como consequência)
+Valparaíso de Goiás;SP;0;3;11;0;1;Vendavais e Ciclones;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Brasília;AM;1;1;8;0;0;Deslizamentos de terra;Geológico
+Manaus;MG;0;1;11;0;0;Subsidência/Colapso de solo;Hidrológico
+Anápolis;AL;1;0;9;0;0;Geada/Frentes frias;Hidrológico
+Luziânia;PA;0;3;11;0;0;Alagamentos;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Brasília;RR;0;0;10;0;0;Vendavais e Ciclones;Climatológico
+Valparaíso de Goiás;SE;0;1;10;1;0;Secas e estiagens;Incêndios Florestais
+Itumbiara;RN;0;1;8;0;0;Alagamentos;Meteorológico
+Manaus;DF;0;3;6;0;0;Deslizamentos de terra;Meteorológico
+São Paulo;RJ;0;2;8;0;0;Alagamentos;Geológico
+Jataí;DF;0;2;8;0;0;Inundações graduais;Geológico
+Brasília;DF;0;1;12;0;0;Incêndios florestais;Hidrológico
+Fortaleza;CE;0;0;10;0;0;Granizo;Climatológico
+Curitiba;PR;1;1;17;0;0;Deslizamentos de terra;Hidrológico
+Porto Alegre;BA;0;1;12;0;0;Alagamentos;Climatológico
+Valparaíso de Goiás;RO;0;2;8;0;0;Geada/Frentes frias;Incêndios Florestais
+Curitiba;MT;0;2;10;0;0;Granizo;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Recife;SC;0;2;6;0;0;Incêndios florestais;Geológico
+Itumbiara;MS;1;2;4;0;0;Secas e estiagens;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+São Paulo;AM;0;2;13;0;0;Chuvas Intensas;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Rio de Janeiro;RS;0;0;8;0;0;Inundações graduais;Incêndios Florestais
+Belo Horizonte;DF;0;1;11;1;0;Enxurradas;Incêndios Florestais
+Fortaleza;RJ;0;0;10;0;0;Tornados;Hidrológico
+Curitiba;CE;0;1;14;0;0;Chuvas Intensas;Geológico
+Valparaíso de Goiás;RS;0;2;11;0;1;Tornados;Climatológico
+Itumbiara;RN;1;1;9;0;0;Chuvas Intensas;Hidrológico
+Aparecida de Goiânia;PR;0;0;16;0;0;Inundações graduais;Hidrológico
+Luziânia;PB;1;1;9;0;0;Alagamentos;Incêndios Florestais
+Goiânia;RR;1;2;10;0;0;Subsidência/Colapso de solo;Climatológico
+São Paulo;TO;1;1;9;0;0;Erosão Costeira;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Itumbiara;SE;0;0;6;1;0;Granizo;Geológico
+Jataí;BA;1;2;12;0;0;Secas e estiagens;Hidrológico
+Recife;SP;0;1;12;1;0;Incêndios florestais;Desastres Tecnológicos (simulando contaminação como consequência)
+Anápolis;DF;1;1;13;0;1;Subsidência/Colapso de solo;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Curitiba;RS;0;1;12;0;0;Enxurradas;Meteorológico
+Goiânia;AC;0;1;6;0;0;Vendavais e Ciclones;Geológico
+Rio de Janeiro;AC;0;3;7;0;0;Chuvas Intensas;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Luziânia;PB;0;3;9;0;0;Geada/Frentes frias;Geológico
+Itumbiara;MG;1;2;13;1;0;Incêndios florestais;Hidrológico
+Valparaíso de Goiás;GO;0;2;16;0;0;Alagamentos;Climatológico
+Recife;MS;0;2;7;0;0;Vendavais e Ciclones;Climatológico
+Goiânia;RR;0;0;12;0;0;Secas e estiagens;Desastres Tecnológicos (simulando contaminação como consequência)
+Valparaíso de Goiás;PI;3;2;9;0;0;Tornados;Meteorológico
+Jataí;PE;0;3;13;0;0;Vendavais e Ciclones;Geológico
+Trindade;TO;0;0;14;0;0;Deslizamentos de terra;Incêndios Florestais
+Belo Horizonte;PA;0;2;14;1;0;Inundações graduais;Incêndios Florestais
+Rio Verde;RJ;0;0;7;1;0;Inundações graduais;Climatológico
+Fortaleza;MA;0;3;10;0;0;Erosão Costeira;Geológico
+Rio de Janeiro;AP;0;2;9;0;0;Incêndios florestais;Meteorológico
+Anápolis;RN;0;1;10;1;0;Deslizamentos de terra;Desastres Tecnológicos (simulando contaminação como consequência)
+Anápolis;MG;0;1;16;0;0;Alagamentos;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Belo Horizonte;SC;0;0;8;1;0;Tornados;Incêndios Florestais
+Manaus;MA;0;1;7;0;0;Deslizamentos de terra;Desastres Tecnológicos (simulando contaminação como consequência)
+Rio Verde;PI;0;1;5;0;0;Erosão Costeira;Hidrológico
+Aparecida de Goiânia;CE;0;2;8;0;0;Subsidência/Colapso de solo;Meteorológico
+São Paulo;BA;0;4;10;0;0;Vendavais e Ciclones;Climatológico
+Itumbiara;AP;0;2;12;0;0;Vendavais e Ciclones;Desastres Tecnológicos (simulando contaminação como consequência)
+Anápolis;TO;1;2;12;0;0;Granizo;Hidrológico
+Fortaleza;SC;0;2;7;0;0;Secas e estiagens;Hidrológico
+Goiânia;MS;0;1;10;0;0;Enxurradas;Geológico
+Aparecida de Goiânia;SE;0;1;7;0;0;Chuvas Intensas;Hidrológico
+Belo Horizonte;PE;1;1;14;1;0;Incêndios florestais;Geológico
+Valparaíso de Goiás;MS;0;4;11;0;0;Tornados;Climatológico
+Salvador;AM;0;1;15;0;0;Secas e estiagens;Incêndios Florestais
+São Paulo;SP;0;0;14;0;0;Vendavais e Ciclones;Incêndios Florestais
+Porto Alegre;MA;0;1;15;0;0;Incêndios florestais;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Manaus;RJ;2;1;9;0;0;Chuvas Intensas;Meteorológico
+São Paulo;MA;0;2;7;0;0;Deslizamentos de terra;Desastres Tecnológicos (simulando contaminação como consequência)
+Anápolis;AM;0;0;11;0;0;Subsidência/Colapso de solo;Meteorológico
+Recife;PB;0;2;10;0;0;Geada/Frentes frias;Desastres Tecnológicos (simulando contaminação como consequência)
+Curitiba;GO;0;2;5;0;0;Subsidência/Colapso de solo;Climatológico
+Rio Verde;RO;0;0;9;0;0;Vendavais e Ciclones;Hidrológico
+Fortaleza;RR;0;2;11;0;0;Tornados;Climatológico
+Porto Alegre;SP;2;2;12;0;0;Secas e estiagens;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Valparaíso de Goiás;RN;0;3;15;0;0;Deslizamentos de terra;Hidrológico
+Catalão;BA;0;3;10;0;0;Chuvas Intensas;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Luziânia;PB;0;2;13;1;0;Subsidência/Colapso de solo;Climatológico
+Curitiba;SP;0;0;8;0;0;Enxurradas;Climatológico
+Trindade;AP;0;2;9;0;0;Chuvas Intensas;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Rio de Janeiro;RO;0;2;13;1;0;Incêndios florestais;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Porto Alegre;SC;1;2;13;0;1;Vendavais e Ciclones;Meteorológico
+Salvador;AL;0;0;5;0;0;Inundações graduais;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Goiânia;PA;0;3;15;1;0;Subsidência/Colapso de solo;Hidrológico
+Rio Verde;MT;0;6;9;0;1;Subsidência/Colapso de solo;Incêndios Florestais
+Jataí;AC;0;1;3;0;1;Granizo;Climatológico
+Recife;SP;2;1;17;0;0;Erosão Costeira;Desastres Tecnológicos (simulando contaminação como consequência)
+Rio de Janeiro;RJ;0;1;7;0;0;Enxurradas;Incêndios Florestais
+Goiânia;GO;1;3;7;0;1;Granizo;Desastres Tecnológicos (simulando contaminação como consequência)
+Brasília;MA;1;1;5;0;0;Chuvas Intensas;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Valparaíso de Goiás;AP;0;2;13;0;0;Granizo;Geológico
+Itumbiara;AM;0;1;8;0;0;Deslizamentos de terra;Desastres Tecnológicos (simulando contaminação como consequência)
+Brasília;PA;0;0;9;0;0;Deslizamentos de terra;Hidrológico
+Anápolis;PI;0;3;7;0;0;Secas e estiagens;Desastres Tecnológicos (simulando contaminação como consequência)
+Rio de Janeiro;DF;0;1;14;0;0;Chuvas Intensas;Geológico
+Trindade;RO;0;3;4;0;0;Inundações graduais;Incêndios Florestais
+Itumbiara;MG;0;2;8;0;0;Geada/Frentes frias;Desastres Tecnológicos (simulando contaminação como consequência)
+Itumbiara;SP;0;0;12;0;0;Chuvas Intensas;Incêndios Florestais
+Rio Verde;AP;0;2;7;0;0;Secas e estiagens;Hidrológico
+Luziânia;PE;0;1;12;1;0;Erosão Costeira;Hidrológico
+Porto Alegre;MG;0;1;9;0;0;Inundações graduais;Desastres Tecnológicos (simulando contaminação como consequência)
+Itumbiara;PI;0;0;12;0;0;Tornados;Geológico
+Jataí;SE;0;2;11;0;0;Secas e estiagens;Climatológico
+Fortaleza;AC;0;0;11;0;0;Enxurradas;Climatológico
+Luziânia;SE;0;1;14;0;1;Secas e estiagens;Hidrológico
+Goiânia;GO;0;3;14;0;0;Incêndios florestais;Desastres Tecnológicos (simulando contaminação como consequência)
+Rio de Janeiro;SC;0;0;11;0;0;Erosão Costeira;Hidrológico
+Belo Horizonte;RO;1;0;9;0;0;Geada/Frentes frias;Incêndios Florestais
+Rio Verde;SE;0;1;7;0;0;Geada/Frentes frias;Meteorológico
+Anápolis;BA;0;1;14;1;0;Granizo;Incêndios Florestais
+Valparaíso de Goiás;PI;0;3;8;0;1;Erosão Costeira;Meteorológico
+Manaus;SC;0;0;7;0;0;Chuvas Intensas;Climatológico
+Rio de Janeiro;PR;0;1;11;0;0;Enxurradas;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Itumbiara;AC;0;1;11;0;0;Vendavais e Ciclones;Hidrológico
+Trindade;RJ;0;2;5;0;0;Enxurradas;Incêndios Florestais
+Fortaleza;AC;1;2;12;0;0;Deslizamentos de terra;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+São Paulo;AC;0;0;1;0;0;Geada/Frentes frias;Geológico
+Recife;PI;0;1;12;0;0;Chuvas Intensas;Climatológico
+Trindade;RR;0;1;5;0;0;Geada/Frentes frias;Desastres Tecnológicos (simulando contaminação como consequência)
+Catalão;SC;0;2;4;1;0;Tornados;Climatológico
+Goiânia;MS;0;0;6;0;0;Subsidência/Colapso de solo;Geológico
+Anápolis;PA;0;1;9;0;0;Chuvas Intensas;Incêndios Florestais
+Valparaíso de Goiás;MT;0;4;10;0;0;Incêndios florestais;Desastres Tecnológicos (simulando contaminação como consequência)
+Salvador;RO;0;2;11;0;0;Chuvas Intensas;Hidrológico
+Goiânia;RN;1;0;9;0;0;Granizo;Desastres Tecnológicos (simulando contaminação como consequência)
+Aparecida de Goiânia;MG;0;0;8;1;0;Geada/Frentes frias;Incêndios Florestais
+Catalão;AL;0;1;16;0;0;Chuvas Intensas;Hidrológico
+Brasília;AP;2;2;11;0;0;Granizo;Hidrológico
+Fortaleza;SE;0;2;10;0;0;Subsidência/Colapso de solo;Incêndios Florestais
+Trindade;PI;0;0;7;0;0;Vendavais e Ciclones;Climatológico
+Curitiba;TO;0;1;11;0;0;Alagamentos;Incêndios Florestais
+Rio Verde;AM;1;5;6;0;1;Vendavais e Ciclones;Geológico
+Anápolis;PI;0;1;11;1;0;Erosão Costeira;Desastres Tecnológicos (simulando contaminação como consequência)
+Recife;PB;0;2;9;1;0;Inundações graduais;Climatológico
+Catalão;SP;0;1;12;0;0;Enxurradas;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Jataí;PI;0;1;6;0;0;Vendavais e Ciclones;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Anápolis;RR;0;1;8;0;0;Enxurradas;Climatológico
+Trindade;DF;0;2;10;1;0;Chuvas Intensas;Incêndios Florestais
+Itumbiara;SE;0;0;12;0;0;Chuvas Intensas;Incêndios Florestais
+Rio de Janeiro;RS;0;2;12;0;0;Tornados;Climatológico
+Aparecida de Goiânia;AL;0;2;13;0;0;Geada/Frentes frias;Climatológico
+Belo Horizonte;AC;0;2;15;0;0;Inundações graduais;Hidrológico
+Recife;RR;0;2;13;1;0;Secas e estiagens;Climatológico
+Rio Verde;SP;0;1;12;0;0;Subsidência/Colapso de solo;Desastres Tecnológicos (simulando contaminação como consequência)
+Rio Verde;RN;0;1;9;0;0;Alagamentos;Meteorológico
+Manaus;RJ;0;6;16;0;0;Granizo;Geológico
+Rio de Janeiro;RS;0;4;14;0;0;Enxurradas;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Fortaleza;RJ;0;2;15;0;0;Erosão Costeira;Geológico
+Recife;MA;0;3;11;0;0;Secas e estiagens;Desastres Tecnológicos (simulando contaminação como consequência)
+Luziânia;GO;0;2;10;0;1;Enxurradas;Hidrológico
+Rio Verde;RS;0;1;5;0;0;Erosão Costeira;Desastres Tecnológicos (simulando contaminação como consequência)
+Porto Alegre;SE;0;0;10;0;0;Chuvas Intensas;Hidrológico
+Anápolis;RR;1;1;7;1;0;Incêndios florestais;Hidrológico
+Catalão;ES;0;3;11;0;0;Alagamentos;Incêndios Florestais
+Fortaleza;CE;0;0;16;1;0;Inundações graduais;Climatológico
+Itumbiara;SC;0;0;12;1;0;Chuvas Intensas;Climatológico
+Curitiba;MG;1;1;6;0;0;Enxurradas;Meteorológico
+Fortaleza;SP;0;0;6;1;1;Erosão Costeira;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Valparaíso de Goiás;RR;0;3;8;0;1;Granizo;Desastres Tecnológicos (simulando contaminação como consequência)
+São Paulo;SC;0;1;11;1;0;Incêndios florestais;Climatológico
+Fortaleza;PI;0;2;10;0;0;Enxurradas;Desastres Tecnológicos (simulando contaminação como consequência)
+Rio de Janeiro;RJ;0;0;10;0;0;Tornados;Climatológico
+Brasília;PA;0;1;10;0;0;Deslizamentos de terra;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Anápolis;AP;1;3;12;0;1;Alagamentos;Geológico
+Recife;PA;0;2;11;0;0;Incêndios florestais;Meteorológico
+Manaus;GO;2;2;10;0;0;Inundações graduais;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Itumbiara;RS;0;0;9;0;0;Enxurradas;Climatológico
+Porto Alegre;AL;0;1;10;0;0;Chuvas Intensas;Geológico
+Recife;AC;0;4;10;0;0;Erosão Costeira;Geológico
+Salvador;MT;0;1;12;0;0;Subsidência/Colapso de solo;Meteorológico
+Anápolis;SC;0;0;13;0;0;Inundações graduais;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Jataí;ES;1;2;6;0;0;Enxurradas;Incêndios Florestais
+Salvador;GO;0;1;14;0;0;Subsidência/Colapso de solo;Desastres Tecnológicos (simulando contaminação como consequência)
+Catalão;ES;0;4;5;0;0;Alagamentos;Geológico
+Goiânia;RJ;0;2;6;0;0;Granizo;Hidrológico
+Rio Verde;AL;0;3;9;0;0;Vendavais e Ciclones;Geológico
+Curitiba;PA;0;1;13;1;0;Chuvas Intensas;Meteorológico
+Salvador;SE;0;0;10;1;0;Incêndios florestais;Incêndios Florestais
+Itumbiara;PA;0;2;8;0;0;Erosão Costeira;Geológico
+Fortaleza;PR;0;2;10;0;1;Vendavais e Ciclones;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Manaus;TO;0;0;14;0;0;Secas e estiagens;Meteorológico
+Luziânia;MS;0;1;10;0;0;Secas e estiagens;Climatológico
+Manaus;RN;0;3;12;0;0;Deslizamentos de terra;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Anápolis;PB;0;1;10;0;0;Incêndios florestais;Climatológico
+Fortaleza;GO;0;1;5;0;0;Secas e estiagens;Desastres Tecnológicos (simulando contaminação como consequência)
+Valparaíso de Goiás;MA;1;1;14;0;0;Alagamentos;Meteorológico
+Trindade;DF;1;0;9;0;0;Alagamentos;Hidrológico
+Brasília;RN;1;3;8;0;0;Enxurradas;Geológico
+Anápolis;RJ;1;0;11;0;0;Chuvas Intensas;Geológico
+Salvador;AC;0;3;9;0;0;Deslizamentos de terra;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Valparaíso de Goiás;DF;0;3;12;0;0;Erosão Costeira;Incêndios Florestais
+Curitiba;PI;0;1;17;0;0;Incêndios florestais;Hidrológico
+Anápolis;PR;0;1;14;0;0;Alagamentos;Climatológico
+Catalão;ES;0;2;10;0;1;Incêndios florestais;Geológico
+Porto Alegre;AL;0;1;12;1;0;Enxurradas;Geológico
+Valparaíso de Goiás;MG;0;1;9;0;0;Enxurradas;Desastres Tecnológicos (simulando contaminação como consequência)
+Belo Horizonte;PA;0;3;14;1;0;Alagamentos;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Salvador;MT;2;2;8;0;0;Inundações graduais;Hidrológico
+Rio Verde;DF;0;1;10;0;0;Erosão Costeira;Climatológico
+Rio de Janeiro;RS;1;1;14;0;1;Erosão Costeira;Geológico
+Rio Verde;PI;0;1;12;1;0;Inundações graduais;Climatológico
+Fortaleza;MS;0;4;14;0;0;Deslizamentos de terra;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Recife;CE;0;5;7;0;0;Tornados;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Luziânia;SP;0;0;10;0;0;Erosão Costeira;Climatológico
+Valparaíso de Goiás;BA;0;3;5;0;0;Chuvas Intensas;Desastres Tecnológicos (simulando contaminação como consequência)
+Salvador;RN;0;3;6;0;1;Vendavais e Ciclones;Geológico
+Rio de Janeiro;BA;0;1;13;0;1;Vendavais e Ciclones;Incêndios Florestais
+Aparecida de Goiânia;TO;0;4;13;1;0;Granizo;Meteorológico
+Rio de Janeiro;MG;0;2;4;1;0;Deslizamentos de terra;Desastres Tecnológicos (simulando contaminação como consequência)
+Salvador;RN;0;1;13;0;0;Geada/Frentes frias;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Anápolis;ES;1;4;8;0;0;Tornados;Geológico
+Luziânia;PE;0;1;6;0;0;Erosão Costeira;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Aparecida de Goiânia;PB;0;2;12;0;0;Tornados;Climatológico
+Brasília;SP;0;3;10;0;1;Inundações graduais;Climatológico
+Itumbiara;AP;0;4;11;0;0;Inundações graduais;Meteorológico
+Belo Horizonte;PE;0;2;10;0;0;Erosão Costeira;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Rio de Janeiro;CE;0;1;10;0;0;Inundações graduais;Meteorológico
+Jataí;PR;0;3;10;0;0;Alagamentos;Incêndios Florestais
+Luziânia;SE;0;1;12;0;0;Incêndios florestais;Geológico
+Jataí;RN;1;1;14;1;1;Deslizamentos de terra;Meteorológico
+Luziânia;SE;0;2;9;1;0;Incêndios florestais;Incêndios Florestais
+Salvador;MG;0;2;7;1;0;Vendavais e Ciclones;Desastres Tecnológicos (simulando contaminação como consequência)
+Luziânia;MT;0;2;11;0;0;Incêndios florestais;Desastres Tecnológicos (simulando contaminação como consequência)
+Recife;RS;0;3;13;0;0;Inundações graduais;Incêndios Florestais
+Rio de Janeiro;PA;0;2;9;0;0;Subsidência/Colapso de solo;Desastres Tecnológicos (simulando contaminação como consequência)
+Fortaleza;RO;0;4;9;0;0;Tornados;Hidrológico
+Catalão;PA;0;2;11;0;0;Erosão Costeira;Meteorológico
+Valparaíso de Goiás;DF;0;7;8;0;0;Incêndios florestais;Desastres Tecnológicos (simulando contaminação como consequência)
+Fortaleza;PE;0;3;13;0;0;Tornados;Meteorológico
+Itumbiara;SC;0;2;13;0;0;Granizo;Desastres Tecnológicos (simulando contaminação como consequência)
+Trindade;AL;1;0;13;0;0;Vendavais e Ciclones;Desastres Tecnológicos (simulando contaminação como consequência)
+Aparecida de Goiânia;PA;0;0;9;0;0;Chuvas Intensas;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Aparecida de Goiânia;PI;0;1;13;0;0;Granizo;Hidrológico
+Goiânia;SC;0;1;15;0;0;Granizo;Desastres Tecnológicos (simulando contaminação como consequência)
+Recife;PE;1;2;11;0;0;Granizo;Incêndios Florestais
+Aparecida de Goiânia;TO;1;0;10;1;0;Secas e estiagens;Desastres Tecnológicos (simulando contaminação como consequência)
+Fortaleza;PI;0;3;9;0;0;Deslizamentos de terra;Climatológico
+Fortaleza;RJ;0;1;11;0;1;Chuvas Intensas;Climatológico
+Catalão;ES;1;2;14;0;1;Incêndios florestais;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Jataí;CE;0;1;13;0;0;Incêndios florestais;Meteorológico
+Manaus;AM;0;1;6;0;0;Tornados;Desastres Tecnológicos (simulando contaminação como consequência)
+Rio Verde;PE;0;4;7;0;0;Tornados;Climatológico
+Recife;MT;0;4;11;0;0;Enxurradas;Desastres Tecnológicos (simulando contaminação como consequência)
+Valparaíso de Goiás;TO;0;0;7;0;0;Enxurradas;Climatológico
+Belo Horizonte;PA;0;0;8;0;0;Incêndios florestais;Incêndios Florestais
+Rio Verde;TO;0;0;8;1;0;Inundações graduais;Meteorológico
+Catalão;RJ;1;1;12;0;0;Alagamentos;Climatológico
+Curitiba;PI;0;0;13;0;0;Alagamentos;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Brasília;PI;0;2;10;0;0;Inundações graduais;Incêndios Florestais
+Recife;RS;0;2;19;1;0;Subsidência/Colapso de solo;Meteorológico
+Fortaleza;AL;0;1;8;1;0;Chuvas Intensas;Incêndios Florestais
+Jataí;PE;1;1;5;0;0;Chuvas Intensas;Desastres Tecnológicos (simulando contaminação como consequência)
+São Paulo;AL;0;1;9;0;0;Erosão Costeira;Hidrológico
+Anápolis;PA;0;4;12;0;0;Enxurradas;Desastres Tecnológicos (simulando contaminação como consequência)
+Valparaíso de Goiás;RN;2;0;15;0;0;Erosão Costeira;Incêndios Florestais
+Porto Alegre;PE;1;1;13;0;0;Vendavais e Ciclones;Incêndios Florestais
+Itumbiara;RS;0;2;8;1;1;Tornados;Meteorológico
+Catalão;SC;0;2;6;0;0;Enxurradas;Desastres Tecnológicos (simulando contaminação como consequência)
+Manaus;TO;0;2;8;0;0;Erosão Costeira;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Aparecida de Goiânia;AM;0;2;10;0;1;Subsidência/Colapso de solo;Desastres Tecnológicos (simulando contaminação como consequência)
+Goiânia;TO;0;5;8;0;0;Subsidência/Colapso de solo;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Luziânia;MG;0;5;7;0;0;Chuvas Intensas;Geológico
+São Paulo;TO;1;2;8;0;0;Geada/Frentes frias;Incêndios Florestais
+Itumbiara;PR;0;4;10;1;0;Inundações graduais;Meteorológico
+Trindade;GO;1;2;8;0;0;Deslizamentos de terra;Hidrológico
+Valparaíso de Goiás;SE;1;2;9;1;0;Inundações graduais;Desastres Tecnológicos (simulando contaminação como consequência)
+Fortaleza;AP;0;1;9;0;0;Subsidência/Colapso de solo;Meteorológico
+Jataí;RO;0;0;10;0;0;Chuvas Intensas;Geológico
+Valparaíso de Goiás;MT;0;0;15;0;0;Secas e estiagens;Desastres Tecnológicos (simulando contaminação como consequência)
+Porto Alegre;MS;0;2;15;0;0;Granizo;Climatológico
+Rio de Janeiro;RS;0;1;15;0;0;Chuvas Intensas;Incêndios Florestais
+Trindade;AC;0;2;6;1;0;Alagamentos;Hidrológico
+Manaus;PB;0;3;10;0;0;Granizo;Hidrológico
+Itumbiara;TO;0;1;16;0;0;Tornados;Geológico
+Belo Horizonte;MA;0;1;16;0;0;Incêndios florestais;Incêndios Florestais
+Trindade;RN;0;1;6;1;0;Vendavais e Ciclones;Meteorológico
+Jataí;SP;0;1;8;0;0;Secas e estiagens;Meteorológico
+São Paulo;BA;0;1;9;0;0;Chuvas Intensas;Desastres Tecnológicos (simulando contaminação como consequência)
+Manaus;MG;0;2;14;0;0;Enxurradas;Climatológico
+Jataí;PA;0;2;11;0;1;Chuvas Intensas;Climatológico
+Curitiba;PI;1;1;10;0;1;Geada/Frentes frias;Hidrológico
+Valparaíso de Goiás;BA;0;1;8;0;0;Tornados;Incêndios Florestais
+Curitiba;SC;1;1;6;0;0;Subsidência/Colapso de solo;Incêndios Florestais
+Rio Verde;AC;1;1;8;0;0;Vendavais e Ciclones;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Anápolis;SP;1;1;11;0;0;Secas e estiagens;Hidrológico
+São Paulo;RR;0;0;7;0;0;Erosão Costeira;Hidrológico
+Salvador;MS;0;3;9;0;0;Inundações graduais;Desastres Tecnológicos (simulando contaminação como consequência)
+Jataí;PA;0;2;6;0;0;Inundações graduais;Geológico
+Aparecida de Goiânia;MA;1;1;8;0;0;Subsidência/Colapso de solo;Hidrológico
+Salvador;RJ;0;0;16;0;0;Tornados;Climatológico
+Rio de Janeiro;AM;1;2;15;0;0;Alagamentos;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Porto Alegre;SC;0;2;11;0;0;Erosão Costeira;Meteorológico
+Brasília;SP;1;2;18;0;0;Vendavais e Ciclones;Meteorológico
+Trindade;AP;0;0;11;0;0;Inundações graduais;Incêndios Florestais
+Luziânia;AL;2;2;10;0;0;Enxurradas;Climatológico
+Rio Verde;PA;0;0;10;0;0;Inundações graduais;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+São Paulo;TO;0;0;10;0;0;Granizo;Climatológico
+Porto Alegre;RS;0;0;13;0;0;Chuvas Intensas;Desastres Tecnológicos (simulando contaminação como consequência)
+São Paulo;RN;0;0;9;1;0;Geada/Frentes frias;Desastres Tecnológicos (simulando contaminação como consequência)
+Trindade;DF;0;0;9;0;0;Erosão Costeira;Climatológico
+Rio Verde;BA;1;3;7;0;0;Alagamentos;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Jataí;RS;0;2;10;0;0;Secas e estiagens;Meteorológico
+Porto Alegre;RN;0;2;9;0;0;Geada/Frentes frias;Hidrológico
+São Paulo;MG;0;1;7;0;0;Inundações graduais;Desastres Tecnológicos (simulando contaminação como consequência)
+Luziânia;RS;0;0;11;0;0;Incêndios florestais;Climatológico
+Rio Verde;RO;0;1;7;0;0;Subsidência/Colapso de solo;Geológico
+Jataí;AP;0;1;14;0;0;Tornados;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Fortaleza;MT;0;0;10;1;0;Inundações graduais;Meteorológico
+Manaus;BA;0;3;5;0;0;Enxurradas;Desastres Tecnológicos (simulando contaminação como consequência)
+São Paulo;RO;0;5;5;1;0;Granizo;Meteorológico
+Porto Alegre;MS;0;1;13;1;0;Deslizamentos de terra;Desastres Biológicos (ex: epidemias relacionadas a desastres)
+Catalão;RJ;1;3;8;0;0;Inundações graduais;Meteorológico
+Recife;MT;0;2;7;0;0;Enxurradas;Desastres Tecnológicos (simulando contaminação como consequência)
+Aparecida de Goiânia;RO;1;1;8;0;0;Secas e estiagens;Hidrológico
+Anápolis;RJ;0;0;11;0;0;Deslizamentos de terra;Climatológico
+Recife;PE;0;2;13;1;0;Vendavais e Ciclones;Incêndios Florestais

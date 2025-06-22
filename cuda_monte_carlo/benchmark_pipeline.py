@@ -1,4 +1,5 @@
 import time
+import os
 import pandas as pd
 import numpy as np
 from mc_py    import simulate_mc_py
@@ -47,6 +48,15 @@ def full_pipeline_timed(csv_path, base_path,
     else:
         mc_res = simulate_mc_py(mc_N, mu=0.0, sigma=1.0, seed_offset=0)
     times['monte_carlo'] = time.perf_counter() - t0
+
+    # Salvar vetor MC no disco
+    mc_path_csv = os.path.join(base_path, "monte_carlo_results.csv")
+    np.savetxt(mc_path_csv, mc_res, delimiter=",")
+
+    t0 = time.perf_counter()
+    save_outputs(df, df_agg, base_path)
+    times['save_outputs'] = time.perf_counter() - t0
+
 
     t0 = time.perf_counter()
     save_outputs(df, df_agg, base_path)

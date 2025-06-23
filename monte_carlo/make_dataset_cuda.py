@@ -5,7 +5,7 @@ import pandas as pd
 from wrapper import simulate_mc_cuda
 
 # 1) Parâmetros
-INPUT_CSV = "../dataframe/BD_Atlas_1991_2024_v1.0_2025.04.14_Consolidado.csv"
+INPUT_CSV = "../dataframes/BD_Atlas_1991_2024_v1.0_2025.04.14_Consolidado.csv"
 OUTPUT_DIR = "output_dir"
 FINAL_CSV = os.path.join(OUTPUT_DIR, "dataset_montecarlo_CUDA_full.csv")
 MU, SIGMA, SEED = 0.0, 1.0, 42

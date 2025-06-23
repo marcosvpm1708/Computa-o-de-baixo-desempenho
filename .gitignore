@@ -172,8 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-cuda_monte_carlo/build/
+monte_carlo/build/
 cuda_monte_carlo/*.so
-cuda_monte_carlo/output_dir/
+monte_carlo/output_dir/
 data-simulation/
-dataframe/
+dataframes/
